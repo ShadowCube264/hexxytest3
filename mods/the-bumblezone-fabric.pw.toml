@@ -1,0 +1,13 @@
+name = "The Bumblezone - Fabric"
+filename = "the_bumblezone-7.9.8+1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eA8SXqWL/versions/GBDQE2Yk/the_bumblezone-7.9.8%2B1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "47e617aabd301296211b38f29b1f10c9140ff38a7c74ef82e9d1f21f45dcc1545f238469350f41fb5a856a7586b9bbcf0df0fd6c6e54dd5cba2aa4152d8a9a3d"
+
+[update]
+[update.modrinth]
+mod-id = "eA8SXqWL"
+version = "GBDQE2Yk"
