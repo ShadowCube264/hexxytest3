@@ -487,6 +487,10 @@ hash = "8bb457a1c12258bd4d0e4612a4da14ecd0c09c7fc4f499b3e75d989bc82981e3"
 metafile = true
 
 [[files]]
+file = "mods/copycats-3.0.4+mc.1.20.1-fabric-build.271.jar"
+hash = "594096ed834cff4fd2f1662e1dd914ee2cd0d454543e780db9742b9800efbc42"
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "809ab9c953bf5ca4647570fafbc76bc7f29ada644f9556831c196e26b1822ca3"
 metafile = true
@@ -494,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "997f9c158efe12c93c08f9072c76436efaeddbe9493a92e1d52bcc15d2abfc8a"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "87ff76b626d247926d90756e19e2a5f36b16bded8937fa63519a1579df91fd48"
 metafile = true
 
 [[files]]
