@@ -904,6 +904,10 @@ hash = "757774e68391ed09ec99fadf5564db6649519f11a9114b63a4f162932209e11e"
 metafile = true
 
 [[files]]
+file = "mods/hextrogen-1.1.0.jar"
+hash = "baebb24147febda61cc4c816bdec174f2dfa5f2115ffd0d1cc76d876f9c0ee0b"
+
+[[files]]
 file = "mods/hextweaks.pw.toml"
 hash = "490ffac336a35b3e76238d9cc682745b629a249115aba5532836f73eba8fb929"
 metafile = true
