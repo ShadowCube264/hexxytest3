@@ -506,6 +506,11 @@ hash = "87ff76b626d247926d90756e19e2a5f36b16bded8937fa63519a1579df91fd48"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "023532063fbf310dd047a33cf1afd06b0c4baf72da4dc23e78d1d599ad5dcccd"
+metafile = true
+
+[[files]]
 file = "mods/create-estrogen.pw.toml"
 hash = "1c5769334b61cdaaa85a38573cbc4677cfb7f7b30b9e2089048103e4c906e000"
 metafile = true
@@ -544,6 +549,10 @@ metafile = true
 file = "mods/createaddition.pw.toml"
 hash = "8e0ab4317f114231fa313af5fc1b5fadf0e8096d712bdc1fd7359077a003d389"
 metafile = true
+
+[[files]]
+file = "mods/createdeco-2.1.1-1.20.1-fabric.jar"
+hash = "8387d0857cbc58c1db868acd2a929e704b6df2f0daa11dcd57297ceb953fe26b"
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
