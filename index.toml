@@ -387,6 +387,10 @@ hash = "30ad9dfe5d3e7aa49aed43266c6e3bd76187f9126434e1652d44fa00ca29bf5c"
 metafile = true
 
 [[files]]
+file = "mods/cccbridge-1.8.0.jar"
+hash = "5d3d6f92b61b051f92e30f9139f076dcb5732b5d9d6e46b13b11eda133ec64f1"
+
+[[files]]
 file = "mods/chattoggle.pw.toml"
 hash = "73bd5d3aa580e4236c387cb1d527a16c9a917c45c4aaef2455f7deb1d81e7234"
 metafile = true
@@ -660,7 +664,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "a89e2a4903a962a372882656b0bfd4c55c595e08df0a27720a8707d3db474e25"
+hash = "fec1ffa03b4d62e47be25512840490844fc383cf82d2ad35345b2f87a21e8228"
 metafile = true
 
 [[files]]
@@ -1355,9 +1359,8 @@ hash = "029acab7ef100720cf537fcb676e706b61fd289add0f712185ec81ceff944804"
 metafile = true
 
 [[files]]
-file = "mods/sc-peripherals.pw.toml"
-hash = "666bb36c42a08f6f34ac4ed954f95222ba690a6380062b740b602abe8f21901c"
-metafile = true
+file = "mods/sc-peripherals-1.10.5.jar"
+hash = "2e68f4df53e6442c34d59d19e678fa21f43b37ef3620a19807702ec95685f454"
 
 [[files]]
 file = "mods/scarves.pw.toml"
