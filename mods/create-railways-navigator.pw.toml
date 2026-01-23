@@ -1,13 +1,13 @@
 name = "Create Railways Navigator"
-filename = "createrailwaysnavigator-fabric-1.20.1-beta-0.7.2.jar"
+filename = "createrailwaysnavigator-fabric-1.20.1-alpha-0.9.0-1-C6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Dq3STxps/versions/BNIhuyhA/createrailwaysnavigator-fabric-1.20.1-beta-0.7.2.jar"
-hash-format = "sha1"
-hash = "f736503519df008f58dc93cb771b11db57aff6f7"
+url = "https://cdn.modrinth.com/data/Dq3STxps/versions/f7zyJ9YU/createrailwaysnavigator-fabric-1.20.1-alpha-0.9.0-1-C6.jar"
+hash-format = "sha512"
+hash = "c2487b68415b4c155e52937eb9d204b45e7a5ec7ac1200edce53d4a329e10bfe52d9bc627761b664328158c4e350edc57a1d816d29bf9ef2599f6a3e165ccebf"
 
 [update]
 [update.modrinth]
 mod-id = "Dq3STxps"
-version = "BNIhuyhA"
+version = "f7zyJ9YU"
