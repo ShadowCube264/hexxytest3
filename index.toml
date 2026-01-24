@@ -822,6 +822,10 @@ hash = "b8645b38b9d79ee5baf2c834345a53673cd79122f5efacb11a65c3cc6e07d024"
 metafile = true
 
 [[files]]
+file = "mods/garnished-2.0.7+1.20.1-fabric.jar"
+hash = "86b2cfa0d94e5a61cc9e951130f06350cac6de6ea2a992cf6c59e847d014058c"
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "2321bdba8aed2b99d75de3fc2116bc28c1a1d671292bde0e4af4a3be2dee0dfe"
 metafile = true
