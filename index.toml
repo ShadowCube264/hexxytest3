@@ -913,7 +913,7 @@ metafile = true
 
 [[files]]
 file = "mods/hextrogen-1.1.0.jar"
-hash = "baebb24147febda61cc4c816bdec174f2dfa5f2115ffd0d1cc76d876f9c0ee0b"
+hash = "71c812e31844fa9070b776cdcea0c1d4b49a15dd1f7b61c0263989b217249d5f"
 
 [[files]]
 file = "mods/hextweaks.pw.toml"
