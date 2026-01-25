@@ -1,0 +1,15 @@
+{
+    "type": "origins:action_over_time",
+    "entity_action": {
+        "type": "origins:apply_effect",
+        "effect": {
+            "effect": "the_bumblezone:protection_of_the_hive",
+            "duration": 500,
+            "amplifier": 0,
+            "show_particles": false,
+            "show_icon": false
+        }
+    },
+    "name": "Hive Protection",
+    "description": "As kin to the buzzing folk, you will always have the Protection of the Hive effect."
+}

@@ -1,0 +1,9 @@
+{
+    "type": "origins:action_over_time",
+    "entity_action": {
+        "type": "origins:execute_command",
+        "command": "function ht32:dimension_shadow"
+    },
+    "name": "Dimensional Shadow",
+    "description": "This being's odd nature causes their presence to be broadcasted to all nearby dimensions."
+}

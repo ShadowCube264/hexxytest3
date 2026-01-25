@@ -1,0 +1,29 @@
+{
+    "type": "origins:action_on_block_use",
+    "block_action": {
+        "type": "origins:modify_block_state",
+        "property": "honey_level",
+        "change": 1
+    },
+    "block_condition": {
+        "type": "origins:in_tag",
+        "tag": "minecraft:beehives"
+    },
+    "item_condition": {
+        "type": "origins:empty"
+    },
+    "entity_action": {
+        "type": "origins:change_resource",
+        "resource": "ht32:pollinator_stored",
+        "change": 0,
+        "operation": "set"
+    },
+    "condition": {
+        "type": "origins:resource",
+        "resource": "ht32:pollinator_stored",
+        "comparison": "==",
+        "compare_to": 1
+    },
+    "name": "Hively Home",
+    "description": "Interact with a beehive or beenest after pollinating to deposit the material and produce honey."
+}

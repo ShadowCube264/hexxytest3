@@ -1,0 +1,65 @@
+{
+    "type": "origins:multiple",
+    "cocoon": {
+        "type": "origins:recipe",
+        "recipe": {
+            "type": "minecraft:crafting_shaped",
+            "id": "ht32:wax_weaver/cocoon",
+            "pattern": [
+                "rhr",
+                "h h",
+                "rhr"
+            ],
+            "key": {
+                "r": {"item": "the_bumblezone:sticky_honey_residue"},
+                "h": {"item": "minecraft:honeycomb"}
+            },
+            "result": {
+                "item": "the_bumblezone:honey_cocoon",
+                "count": 2
+            }
+        }
+    },
+    "porous": {
+        "type": "origins:recipe",
+        "recipe": {
+            "type": "minecraft:crafting_shaped",
+            "id": "ht32:wax_weaver/porous",
+            "pattern": [
+                "h h",
+                " h ",
+                "h h"
+            ],
+            "key": {
+                "h": {"item": "minecraft:honeycomb"}
+            },
+            "result": {
+                "item": "the_bumblezone:porous_honeycomb_block",
+                "count": 2
+            }
+        }
+    },
+    "brood": {
+        "type": "origins:recipe",
+        "recipe": {
+            "type": "minecraft:crafting_shaped",
+            "id": "ht32:wax_weaver/brood",
+            "pattern": [
+                "whw",
+                "hbh",
+                "whw"
+            ],
+            "key": {
+                "w": {"item": "the_bumblezone:honey_web"},
+                "h": {"item": "minecraft:honeycomb_block"},
+                "b": {"item": "minecraft:honey_block"}
+            },
+            "result": {
+                "item": "the_bumblezone:empty_honeycomb_brood_block",
+                "count": 1
+            }
+        }
+    },
+    "name": "Wax Weaver",
+    "description": "As one with the hive and of beeish talents, you can craft some things others cannot."
+}

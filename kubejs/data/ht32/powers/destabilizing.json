@@ -1,0 +1,174 @@
+{
+    "type": "origins:target_action_on_hit",
+    "entity_action": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:if_else",
+                "condition": {
+                    "type": "origins:predicate",
+                    "predicate": "ht32:destabilize"
+                },
+                "if_action": {
+                    "type": "origins:apply_effect",
+                    "effect": {
+                        "effect": "minecraft:slowness",
+                        "duration": 200,
+                        "amplifier": 0,
+                        "show_particles": false
+                    }
+                }
+            },
+            {
+                "type": "origins:if_else",
+                "condition": {
+                    "type": "origins:predicate",
+                    "predicate": "ht32:destabilize"
+                },
+                "if_action": {
+                    "type": "origins:apply_effect",
+                    "effect": {
+                        "effect": "minecraft:mining_fatigue",
+                        "duration": 200,
+                        "amplifier": 0,
+                        "show_particles": false
+                    }
+                }
+            },
+            {
+                "type": "origins:if_else",
+                "condition": {
+                    "type": "origins:predicate",
+                    "predicate": "ht32:destabilize"
+                },
+                "if_action": {
+                    "type": "origins:apply_effect",
+                    "effect": {
+                        "effect": "gravity_changer:strength_increase",
+                        "duration": 200,
+                        "amplifier": 2,
+                        "show_particles": false
+                    }
+                }
+            },
+            {
+                "type": "origins:if_else",
+                "condition": {
+                    "type": "origins:predicate",
+                    "predicate": "ht32:destabilize"
+                },
+                "if_action": {
+                    "type": "origins:apply_effect",
+                    "effect": {
+                        "effect": "gravity_changer:strength_decrease",
+                        "duration": 200,
+                        "amplifier": 2,
+                        "show_particles": false
+                    }
+                }
+            },
+            {
+                "type": "origins:if_else",
+                "condition": {
+                    "type": "origins:predicate",
+                    "predicate": "ht32:destabilize"
+                },
+                "if_action": {
+                    "type": "origins:apply_effect",
+                    "effect": {
+                        "effect": "gravity_changer:down",
+                        "duration": 20,
+                        "amplifier": 2,
+                        "show_particles": false
+                    }
+                }
+            },
+            {
+                "type": "origins:if_else",
+                "condition": {
+                    "type": "origins:predicate",
+                    "predicate": "ht32:destabilize"
+                },
+                "if_action": {
+                    "type": "origins:apply_effect",
+                    "effect": {
+                        "effect": "gravity_changer:east",
+                        "duration": 20,
+                        "amplifier": 2,
+                        "show_particles": false
+                    }
+                }
+            },
+            {
+                "type": "origins:if_else",
+                "condition": {
+                    "type": "origins:predicate",
+                    "predicate": "ht32:destabilize"
+                },
+                "if_action": {
+                    "type": "origins:apply_effect",
+                    "effect": {
+                        "effect": "gravity_changer:north",
+                        "duration": 20,
+                        "amplifier": 2,
+                        "show_particles": false
+                    }
+                }
+            },
+            {
+                "type": "origins:if_else",
+                "condition": {
+                    "type": "origins:predicate",
+                    "predicate": "ht32:destabilize"
+                },
+                "if_action": {
+                    "type": "origins:apply_effect",
+                    "effect": {
+                        "effect": "gravity_changer:south",
+                        "duration": 20,
+                        "amplifier": 2,
+                        "show_particles": false
+                    }
+                }
+            },
+            {
+                "type": "origins:if_else",
+                "condition": {
+                    "type": "origins:predicate",
+                    "predicate": "ht32:destabilize"
+                },
+                "if_action": {
+                    "type": "origins:apply_effect",
+                    "effect": {
+                        "effect": "gravity_changer:up",
+                        "duration": 20,
+                        "amplifier": 2,
+                        "show_particles": false
+                    }
+                }
+            },
+            {
+                "type": "origins:if_else",
+                "condition": {
+                    "type": "origins:predicate",
+                    "predicate": "ht32:destabilize"
+                },
+                "if_action": {
+                    "type": "origins:apply_effect",
+                    "effect": {
+                        "effect": "gravity_changer:west",
+                        "duration": 20,
+                        "amplifier": 2,
+                        "show_particles": false
+                    }
+                }
+            }
+        ]
+    },
+    "damage_condition": {
+        "type": "origins:projectile",
+        "inverted": true
+    },
+    "name": "Destabilizing Attack",
+    "description": "Attacking an entity can cause the Reality Engine to alter spacetime around that entity randomly."
+}

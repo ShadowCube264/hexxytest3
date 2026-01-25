@@ -1,0 +1,17 @@
+{
+    "powers": [
+        "ht32:flight",
+        "ht32:pollinator",
+        "ht32:hively_home",
+        "ht32:wax_weaver",
+        "ht32:hive_protection",
+        "origins:fragile"
+    ],
+    "icon": {
+        "item": "the_bumblezone:stingless_bee_helmet_1"
+    },
+    "order": 6,
+    "impact": 3,
+    "name": "Bumblekin",
+    "description": "A buzzy little creature, friend of the various beehives and beenests of the world."
+}
