@@ -1001,6 +1001,11 @@ hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "f644c401c3ef437f661564171abc8be8f13ad71cb67461734ab402d2ebe7cc47"
+metafile = true
+
+[[files]]
 file = "mods/just-zoom.pw.toml"
 hash = "77c3b723aed03a3b7d5ff6eb347c514bfd9ae60934dffeb56136e62af6cee431"
 metafile = true
@@ -1409,6 +1414,10 @@ metafile = true
 file = "mods/simple-voice-chat.pw.toml"
 hash = "6e6ab7c329eee464f5e39e7f327a148626d9aff1f74fed0020de7686d006edea"
 metafile = true
+
+[[files]]
+file = "mods/sliceanddice-fabric-3.3.1.jar"
+hash = "17c3e342f3b091c28f13ff1fe0a9b067e4dc2e85edbe0eeba392d5d27c29950b"
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
