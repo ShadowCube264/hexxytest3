@@ -19,12 +19,12 @@
 	// Add some advanced tooltips to items, like if Sculk Shriekers are able to summon the Warden
 	"AddItemTooltips": true,
 	// Replaces the ornate models of spectrum's transfer system with something simpler for increased visibility. Great for technical players!
-	"MinimalNodes": false,
+	"MinimalNodes": true,
 	/* The vanilla anvil caps enchantment levels at the max level for the enchantment
 	   So enchanted books that exceed the enchantments natural max level get capped
 	   If true the bedrock anvil will not cap the enchantments level to it's natural max level
 	*/
-	"BedrockAnvilCanExceedMaxVanillaEnchantmentLevel": false,
+	"BedrockAnvilCanExceedMaxVanillaEnchantmentLevel": true,
 	/* The chance that an Enderman is holding a special treasure block on spawn
 	   Separate value for Endermen spawning in the end, since there are LOTS of them there
 	   Those blocks do not gate progression, so it is not that drastic not finding any right away.
@@ -90,7 +90,7 @@
 	// When a player places decay, add an entry to the server log
 	"LogPlacingOfDecay": true,
 	// The audio volume for Spectrums crafting blocks. Set to 0.0 to turn those sounds off completely.
-	"BlockSoundVolume": 0.5,
+	"BlockSoundVolume": 0.3,
 	// When empty, enchantments that the player has not unlocked show up with a scattered name. You can use a different name here
 	"NameForUnrevealedEnchantments": "",
 	/* Enable or disable specific enchantments. Resonance and Voiding can not be disabled.
