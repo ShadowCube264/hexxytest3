@@ -5,7 +5,10 @@
         "ht32:hively_home",
         "ht32:wax_weaver",
         "ht32:hive_protection",
-        "origins:fragile"
+        "ht32:barbed_stinger",
+        "origins:fragile",
+        "ht32:bbread_buff",
+        "origins:arthropod"
     ],
     "icon": {
         "item": "the_bumblezone:stingless_bee_helmet_1"

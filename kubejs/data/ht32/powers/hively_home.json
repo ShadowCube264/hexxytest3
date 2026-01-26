@@ -13,10 +13,21 @@
         "type": "origins:empty"
     },
     "entity_action": {
-        "type": "origins:change_resource",
-        "resource": "ht32:pollinator_stored",
-        "change": 0,
-        "operation": "set"
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:change_resource",
+                "resource": "ht32:pollinator_stored",
+                "change": 0,
+                "operation": "set"
+            },
+            {
+                "type": "origins:give",
+                "stack": {
+                    "item": "the_bumblezone:pollen_puff"
+                }
+            }
+        ]
     },
     "condition": {
         "type": "origins:resource",

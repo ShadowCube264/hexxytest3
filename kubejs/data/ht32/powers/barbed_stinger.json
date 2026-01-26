@@ -1,0 +1,33 @@
+{
+    "type": "origins:action_on_hit",
+    "bientity_action": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:actor_action",
+                "action": {
+                    "type": "origins:damage",
+                    "amount": 3,
+                    "damage_type": "minecraft:generic"
+                }
+            },
+            {
+                "type": "origins:target_action",
+                "action": {
+                    "type": "origins:apply_effect",
+                    "effect": {
+                        "effect": "minecraft:poison",
+                        "duration": 240,
+                        "amplifier": 0
+                    }
+                }
+            }
+        ]
+    },
+    "damage_condition": {
+        "type": "origins:projectile",
+        "inverted": true
+    },
+    "name": "Barbed Stinger",
+    "description": "You apply poison when directly attacking but also take one and a half hearts of damage."
+}

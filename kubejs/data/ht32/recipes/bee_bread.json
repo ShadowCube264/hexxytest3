@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "the_bumblezone:pollen_puff"
+    },
+    {
+      "amount": 20250,
+      "fluidTag": "c:honey"
+    }
+  ],
+  "results": [
+    {
+      "item": "the_bumblezone:bee_bread"
+    }
+  ]
+}

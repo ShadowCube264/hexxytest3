@@ -1,5 +1,19 @@
 {
-    "type": "origins:creative_flight",
+    "type": "origins:multiple",
+    "fly": {
+        "type": "origins:creative_flight"
+    },
+    "exhaust": {
+        "type": "origins:action_over_time",
+        "interval": 2,
+        "entity_action": {
+            "type": "origins:exhaust",
+            "amount": 0.02
+        },
+        "condition": {
+            "type": "origins:creative_flying"
+        }
+    },
     "name": "Flight",
     "description": "You can fly!"
 }
