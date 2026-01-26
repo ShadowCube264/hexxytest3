@@ -193,6 +193,62 @@ file = "icon.png"
 hash = "300ffff2f6a03efc51d11799be8e003bc4691571dfa75035fe2212c9d354f041"
 
 [[files]]
+file = "kubejs/data/ht32/functions/dimension_shadow.mcfunction"
+hash = "13ea45e8949744e35c9cdcb0d136486f546896f02207c52a4e4f6624c6b8079e"
+
+[[files]]
+file = "kubejs/data/ht32/origins/bumblekin.json"
+hash = "6f0ccc426fe9e27271421d3b6ec9e2fafe894992e1a09480c57ca8015f1f7f9a"
+
+[[files]]
+file = "kubejs/data/ht32/origins/reality_engine.json"
+hash = "3e2130405185c89f1d36df28852782ed4b39d8986400593298f9e5972722f5e1"
+
+[[files]]
+file = "kubejs/data/ht32/powers/destabilizing.json"
+hash = "90125afe6eee04086ac723a28d4ca6c702c5b10a53edf799e29ecb9d47ca3710"
+
+[[files]]
+file = "kubejs/data/ht32/powers/dimension_shadow.json"
+hash = "9692688848d0f6db8219bddc0d16638732aef72063c159860c085dd7de866f80"
+
+[[files]]
+file = "kubejs/data/ht32/powers/flight.json"
+hash = "260e89816fc12a3d2b36f11c5d952e38f2d31e29aaebf284118115c66461352d"
+
+[[files]]
+file = "kubejs/data/ht32/powers/hive_protection.json"
+hash = "8e69a4669acfa4770eb672127f8e710455a0dcacbac2a1e236b163821b2ab7c1"
+
+[[files]]
+file = "kubejs/data/ht32/powers/hively_home.json"
+hash = "11429a152099bbe20cef36365140164ed543df7b70d2b954be85c72bb84a5a54"
+
+[[files]]
+file = "kubejs/data/ht32/powers/pollinator.json"
+hash = "091e174b3168f54eb97a48294f193d1ff18ef07095210c4aab4ba46bea20e443"
+
+[[files]]
+file = "kubejs/data/ht32/powers/unstable_vitality.json"
+hash = "17b81f8bee118916d1fa7fc30ab2569a3a276ca3840bce4467f0aaed886c4739"
+
+[[files]]
+file = "kubejs/data/ht32/powers/wax_weaver.json"
+hash = "776680038705c29a0ad17aca7462b829dfcda7d9a2381575307880658bc4cf30"
+
+[[files]]
+file = "kubejs/data/ht32/powers/weight_alter.json"
+hash = "947a236ece7ea8b615c60f444f506320406c01d3efb05a452efe469cd0467a7c"
+
+[[files]]
+file = "kubejs/data/ht32/predicates/destabilize.json"
+hash = "042d55ab4a79a47329560426bf6209f5191daa7a689dca3b2fd270fea3227028"
+
+[[files]]
+file = "kubejs/data/origins/origin_layers/origin.json"
+hash = "e5568fcd5418f07531e103fd93fce9342087541c2a5c24a5820ff42671507189"
+
+[[files]]
 file = "local/ftbchunks/client-config.snbt"
 hash = "8cf66ee49ae1ae955947ec4b57100a4fb0025dfb21a9ad7728ab84313f9c060d"
 
