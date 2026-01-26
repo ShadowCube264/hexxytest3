@@ -1,0 +1,48 @@
+{
+    "type": "origins:multiple",
+    "stored": {
+        "type": "origins:resource",
+        "min": 0,
+        "max": 1,
+        "hud_render": {
+            "bar_index": 0,
+            "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_01.png"
+        }
+    },
+    "collect": {
+        "type": "origins:action_on_block_use",
+        "block_action": {
+            "type": "origins:bonemeal"
+        },
+        "block_condition": {
+            "type": "origins:or",
+            "conditions": [
+                {
+                    "type": "origins:in_tag",
+                    "tag": "minecraft:flowers"
+                },
+                {
+                    "type": "origins:in_tag",
+                    "tag": "minecraft:crops"
+                }
+            ]
+        },
+        "item_condition": {
+            "type": "origins:empty"
+        },
+        "entity_action": {
+            "type": "origins:change_resource",
+            "resource": "ht32:pollinator_stored",
+            "change": 1,
+            "operation": "set"
+        },
+        "condition": {
+            "type": "origins:resource",
+            "resource": "ht32:pollinator_stored",
+            "comparison": "==",
+            "compare_to": 0
+        }
+    },
+    "name": "Pollinator",
+    "description": "Interact flower or crops with an empty hand to collect pollen and nectar. Might cause plant growth."
+}

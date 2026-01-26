@@ -1421,13 +1421,19 @@ hash = "6e6ab7c329eee464f5e39e7f327a148626d9aff1f74fed0020de7686d006edea"
 metafile = true
 
 [[files]]
+<<<<<<< HEAD
+file = "mods/sliceanddice-fabric-3.3.1.jar"
+hash = "17c3e342f3b091c28f13ff1fe0a9b067e4dc2e85edbe0eeba392d5d27c29950b"
+=======
 file = "mods/slate-works.pw.toml"
 hash = "2b4c8168e68b2342c4f900c6eb23cb1dbff964f0084bf3571ec6b347a7ea05ed"
 metafile = true
 
 [[files]]
-file = "mods/sliceanddice-fabric-3.3.1.jar"
-hash = "17c3e342f3b091c28f13ff1fe0a9b067e4dc2e85edbe0eeba392d5d27c29950b"
+file = "mods/slice-and-dice.pw.toml"
+hash = "35242355a5725fc5ee4b6e6929f534fdbb32b05e9a7f149f670fcd97eb743079"
+metafile = true
+>>>>>>> upstream/main
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"

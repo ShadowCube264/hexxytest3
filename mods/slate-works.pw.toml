@@ -1,0 +1,13 @@
+name = "Slate Works"
+filename = "Slate_Work-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3DnSSjl3/versions/zJSqIjBf/Slate_Work-1.0.7.jar"
+hash-format = "sha1"
+hash = "266c8ad157850f6e83badfd9e848aec829471f0d"
+
+[update]
+[update.modrinth]
+mod-id = "3DnSSjl3"
+version = "zJSqIjBf"

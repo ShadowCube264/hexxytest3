@@ -1,0 +1,28 @@
+{
+    "type": "origins:conditioned_attribute",
+    "modifiers": [
+        {
+            "attribute": "porting_lib:entity_gravity",
+            "operation": "multiply_total",
+            "value": 1.0
+        },
+        {
+            "attribute": "minecraft:generic.attack_speed",
+            "operation": "multiply_total",
+            "value": -0.5
+        },
+        {
+            "attribute": "minecraft:generic.movement_speed",
+            "operation": "multiply_total",
+            "value": -0.5
+        }
+    ],
+    "tick_rate": 10,
+    "condition": {
+        "type": "origins:health",
+        "comparison": "<",
+        "compare_to": 11
+    },
+    "name": "Unstable Vitality",
+    "description": "Taking damage may render the Reality Engine unstable. Should you fall below five hearts it is very likely you will suffer from unfortunate reality modifications."
+}

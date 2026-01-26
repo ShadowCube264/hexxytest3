@@ -1,0 +1,15 @@
+{
+    "powers": [
+        "ht32:weight_alter",
+        "ht32:destabilizing",
+        "ht32:dimension_shadow",
+        "ht32:unstable_vitality"
+    ],
+    "icon": {
+        "item": "minecraft:music_disc_5"
+    },
+    "order": 7,
+    "impact": 3,
+    "name": "Reality Engine",
+    "description": "The Reality Engine is a piece of technology that has been embedded within this being. This has caused the being to gain some minor control over the Reality Engine; with detriments to their physical body and their dimensional displacement."
+}

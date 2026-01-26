@@ -1,0 +1,13 @@
+name = "Hexpose"
+filename = "hexpose-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VWvaiZqR/versions/o34yY7Me/hexpose-1.0.0.jar"
+hash-format = "sha1"
+hash = "afce3216c636a509df4e2e661ced21ee916127ea"
+
+[update]
+[update.modrinth]
+mod-id = "VWvaiZqR"
+version = "o34yY7Me"
