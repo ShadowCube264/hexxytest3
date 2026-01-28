@@ -4,7 +4,7 @@
         "type": "origins:action_over_time",
         "entity_action": {
             "type": "origins:heal",
-            "amount": 4
+            "amount": 10
         }
     },
     "reduce": {
