@@ -1,0 +1,16 @@
+{
+    "powers": [
+        "ht32:necrotroph",
+        "ht32:nutrient_fixer",
+        "ht32:mycelial_network",
+        "ht32:mycotoxins",
+        "ht32:photosensitive"
+    ],
+    "icon": {
+        "item": "farmersdelight:brown_mushroom_colony"
+    },
+    "order": 11,
+    "impact": 3,
+    "name": "ht32.origin.mycelial_symbiont",
+    "description": "ht32.origin.mycelial_symbiont.desc"
+}

@@ -1,0 +1,21 @@
+{
+    "type": "origins:disable_regen",
+    "condition": {
+        "type": "origins:and",
+        "conditions": [
+            {
+                "type": "origins:exposed_to_sun"
+            },
+            {
+                "type": "origins:on_block",
+                "block_condition": {
+                    "type": "origins:block",
+                    "block": "minecraft:mycelium"
+                },
+                "inverted": true
+            }
+        ]
+    },
+    "name": "ht32.power.photosensitive",
+    "description": "ht32.power.photosensitive.desc"
+}
