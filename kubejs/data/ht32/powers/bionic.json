@@ -2,9 +2,10 @@
     "type": "origins:multiple",
     "regen": {
         "type": "origins:action_over_time",
+        "interval": 2,
         "entity_action": {
             "type": "origins:heal",
-            "amount": 10
+            "amount": 1
         }
     },
     "reduce": {

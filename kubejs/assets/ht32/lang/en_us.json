@@ -48,6 +48,8 @@
     "ht32.power.body_builder": "Body Builder",
     "ht32.power.body_builder.desc": "You can build more bodies for yourself. Apply a player head on a target dummy in your inventory to create a new body.",
     "ht32.power.breathless_glide": "Variable Sweep",
+    "ht32.power.breathless_glide.enable": "§aWings Enabled",
+    "ht32.power.breathless_glide.disable": "§4Wings Disabled",
     "ht32.power.breathless_glide.desc": "You can glide with your wings!",
     "ht32.power.destabilizing": "Destabilizing Attack",
     "ht32.power.destabilizing.desc": "Attacking an entity can cause the Reality Engine to alter spacetime around that entity randomly.",
@@ -88,9 +90,13 @@
     "ht32.power.nutrient_fixer": "Nutrient Fixer",
     "ht32.power.nutrient_fixer.desc": "Your digestive processes produce byproducts useful to many plants in the enviroment; eating produces bone meal.",
     "ht32.power.mycelial_network": "Mycelial Network",
-    "ht32.power.mycelial_network.desc": "You can connect with the mycelium around you, allowing you to access and store items in the mycelial network while near a mushroom.",
+    "ht32.power.mycelial_network.desc": "You can connect with the mycelium around you, allowing you to access and store items in the mycelial network while near a mushroom. Additionally you can set your spawn by interacting with mycelium while sneaking.",
     "ht32.power.photosensitive": "Photosensitive",
     "ht32.power.photosensitive.desc": "Being exposed to sunlight disables natural regen unless you are standing on mycelium.",
     "ht32.power.mycotoxins": "Mycotoxins",
-    "ht32.power.mycotoxins.desc": "Entities that directly attack you receive the withering effect."
+    "ht32.power.mycotoxins.desc": "Entities that directly attack you receive the withering effect.",
+    "ht32.power.spore_spreader": "Spore Spreader",
+    "ht32.power.spore_spreader.desc": "You can create new mycelium by using mushrooms on paved grass. Additionally you can pick up mycelium without silktouch.",
+    "ht32.power.undead": "Undead",
+    "ht32.power.undead.desc": "You are classified as an undead entity and are therefore vulnerable to the smite enchantment."
 }

@@ -5,6 +5,12 @@
         "type": "origins:execute_command",
         "command": "execute positioned ~ ~ ~ rotated ~ ~ run function ht32:swap/swap"
     },
+    "condition": {
+        "type": "origins:command",
+        "command": "execute at @e[tag=ExtraBody,limit=1,sort=random,type=armor_stand] if score @e[tag=ExtraBody,limit=1,sort=random,type=armor_stand] id = @s id",
+        "comparison": ">",
+        "compare_to": 0
+    },
     "name": "ht32.power.swap_bodies",
     "description": "ht32.power.swap_bodies.desc"
 }

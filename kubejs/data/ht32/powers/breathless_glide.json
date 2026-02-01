@@ -11,6 +11,48 @@
             "power": "ht32:breathless_glide_toggle"
         }
     },
+    "notif": {
+        "type": "origins:action_over_time",
+        "interval": 1,
+        "rising_action": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:execute_command",
+                    "command": "title @s times 10t 30t 10t"
+                },
+                {
+                    "type": "origins:execute_command",
+                    "command": "title @s actionbar {\"translate\":\"ht32.power.breathless_glide.enable\"}"
+                },
+                {
+                    "type": "origins:execute_command",
+                    "command": "playsound minecraft:block.note_block.bell master @s ~ ~ ~ 1 0.75"
+                }
+            ]
+        },
+        "falling_action": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:execute_command",
+                    "command": "title @s times 10t 30t 10t"
+                },
+                {
+                    "type": "origins:execute_command",
+                    "command": "title @s actionbar {\"translate\":\"ht32.power.breathless_glide.disable\"}"
+                },
+                {
+                    "type": "origins:execute_command",
+                    "command": "playsound minecraft:block.note_block.bell master @s ~ ~ ~ 1 0.5"
+                }
+            ]
+        },
+        "condition": {
+            "type": "origins:power_active",
+            "power": "ht32:breathless_glide_toggle"
+        }
+    },
     "name": "ht32.power.breathless_glide",
     "description": "ht32.power.breathless_glide.desc"
 }
