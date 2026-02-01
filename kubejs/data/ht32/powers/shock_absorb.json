@@ -2,7 +2,7 @@
     "type": "origins:modify_damage_taken",
     "damage_condition": {
         "type": "origins:in_tag",
-        "tag": "minecraft:is_fall"
+        "tag": "ht32:is_impact"
     },
     "modifier": {
         "operation": "set_total",
