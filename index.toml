@@ -210,11 +210,19 @@ hash = "81ac4bf6d9c7999ee82e19c26a4ee9d1ef56c15fcc01697bf29f63991e316e1b"
 
 [[files]]
 file = "kubejs/assets/ht32/lang/en_us.json"
-hash = "37cbf046f2cb2caa995f2e3918384a27cb2aa43a90c650dd567b195fc7f1480d"
+hash = "7a712ca743f8942ab4036ad303993fb1df450eb1f2c381002e56492af4a14e06"
 
 [[files]]
 file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/c/tags/blocks/mushrooms.json"
+hash = "b609618ef00f8a930b21665c2706b057c06fdc169806da19ad551b640dd2bdf3"
+
+[[files]]
+file = "kubejs/data/c/tags/items/mushrooms.json"
+hash = "b609618ef00f8a930b21665c2706b057c06fdc169806da19ad551b640dd2bdf3"
 
 [[files]]
 file = "kubejs/data/ht32/functions/check_entity.mcfunction"
@@ -239,6 +247,10 @@ hash = "598055338c4e82c7104376f4a0051cc81b0fd46e56ecb962cb96da72014ad5e8"
 [[files]]
 file = "kubejs/data/ht32/functions/load.mcfunction"
 hash = "6bc6c516ca1a3f700bb1a5f1b4e785fff93bb30257825558c01afb860e2c3234"
+
+[[files]]
+file = "kubejs/data/ht32/functions/mycelial_spawn.mcfunction"
+hash = "31d4132f4d32e538f82152892e62830d524e7262fb3f696c1e4102f13d42431b"
 
 [[files]]
 file = "kubejs/data/ht32/functions/swap/check.mcfunction"
@@ -269,6 +281,10 @@ file = "kubejs/data/ht32/item_modifiers/fill_head.json"
 hash = "12eba45cb68cc439667982c21d12c2eb1161f21bc38ac270ef7ae3b638633792"
 
 [[files]]
+file = "kubejs/data/ht32/loot_tables/blocks/mycelium_alt.json"
+hash = "d24d1c5ac0da52e60d681f5ef875534f02228a3c4d332b0a961147b4d012e434"
+
+[[files]]
 file = "kubejs/data/ht32/loot_tables/chests/noo_vault.json"
 hash = "7b424bfaebd4fb3721d9a1216def56b6b831a7f176b4f2e9d116424edee809c4"
 
@@ -287,6 +303,10 @@ hash = "2b7101f06dc14d29e26441eaedae0ce5022e2a6ce179bc85b9e4a587a8cd58af"
 [[files]]
 file = "kubejs/data/ht32/origins/mobile_mind.json"
 hash = "20915b748ff04597fca0db8031faf931b4cf6f98882a85dcc0d279b088f5ff24"
+
+[[files]]
+file = "kubejs/data/ht32/origins/mycelial_symbiont.json"
+hash = "03f0aefd58796af67af1f519773660003aa7e6875667e13df7a3b7e77ea432cb"
 
 [[files]]
 file = "kubejs/data/ht32/origins/reality_engine.json"
@@ -345,6 +365,26 @@ file = "kubejs/data/ht32/powers/media_siphon.json"
 hash = "34be3978495225f0292e47db5f7b3154ff856bb9860951926417ede907bebcba"
 
 [[files]]
+file = "kubejs/data/ht32/powers/mycelial_network.json"
+hash = "d02f535513bb8475fda831daa3a7cd95876195df6fdd9873940c6952c9381fc5"
+
+[[files]]
+file = "kubejs/data/ht32/powers/mycotoxins.json"
+hash = "14461e0a90ec7cec361693aec85b6e93d2fcde11a9351ca8d9b41d43da150cfd"
+
+[[files]]
+file = "kubejs/data/ht32/powers/necrotroph.json"
+hash = "b339a5cfb0346dc340729de4646d7f598e34f4e9bb4c17ffcfbbe33f6274db1d"
+
+[[files]]
+file = "kubejs/data/ht32/powers/nutrient_fixer.json"
+hash = "f02667c672bbb4591b9de3baf48c37a47373fe148155bf217cf9c1a19ec990d5"
+
+[[files]]
+file = "kubejs/data/ht32/powers/photosensitive.json"
+hash = "98a25c0a69ebe96ffc45bf751e321bfc9633f3ebf664e9a256a74a756e9ab118"
+
+[[files]]
 file = "kubejs/data/ht32/powers/pollinator.json"
 hash = "96099ac64e7547a4404a869196dfa170c9cd7c780286dcdcddcb07edcbedfbf5"
 
@@ -361,12 +401,20 @@ file = "kubejs/data/ht32/powers/shock_absorb.json"
 hash = "5a1a5ac1a5f530a7e61449c896dc50f18c3de33072be6a47cafd3d8a500a9397"
 
 [[files]]
+file = "kubejs/data/ht32/powers/spore_spreader.json"
+hash = "c109ed21764ca0c0697e337f387be6edb01c0f86af35ca17edf7506f7a22cbae"
+
+[[files]]
 file = "kubejs/data/ht32/powers/swap_bodies.json"
 hash = "cffd5457c51d47b17161e5540281e9883ce7f32bb563c2a5202d2e9421c29c1e"
 
 [[files]]
 file = "kubejs/data/ht32/powers/swap_sickness.json"
 hash = "6dc049e596b4747b6d4732cf54cc675734b9059c6112bb6cb087239603fea623"
+
+[[files]]
+file = "kubejs/data/ht32/powers/undead.json"
+hash = "70c3adfdf217de79c872db163c07c680c3b674d35ae669e7eb63ac74a1a119a7"
 
 [[files]]
 file = "kubejs/data/ht32/powers/unstable_vitality.json"
@@ -397,6 +445,10 @@ file = "kubejs/data/ht32/recipes/bee_bread.json"
 hash = "7907bd215209842f28fd162926275f05fa6e92d0b5b99bb8979f1df094c2afe9"
 
 [[files]]
+file = "kubejs/data/ht32/recipes/rotten_flesh.json"
+hash = "8c9dfd7e0dc1861a28af123b9ef9f1eb4231588895c45cf3c6edc564b54ea937"
+
+[[files]]
 file = "kubejs/data/minecraft/tags/functions/load.json"
 hash = "716a9901b0fc0966e84975ca48508656bdf6b51d14f677c37b4d9b555ca0449b"
 
@@ -406,7 +458,11 @@ hash = "aca56098d1e72378ddf8a938c5d6c5c40a96cdfd4f1a20afb49dcecd410373da"
 
 [[files]]
 file = "kubejs/data/origins/origin_layers/origin.json"
-hash = "0034f2ff62103b42b37f1a379e1fb6f1c02877bd727a147d7a6998a0f31f4368"
+hash = "e82c4c1f7e7f42fa39d1338f55903a4b306dd8af095dfa401af3bf5e9c550669"
+
+[[files]]
+file = "kubejs/server_scripts/factory_fix.js"
+hash = "1d09efd8afec67e4aa07ebf49e3e952fc3913ff2ea537c637d0e3334d7e6ef81"
 
 [[files]]
 file = "local/ftbchunks/client-config.snbt"
@@ -527,6 +583,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "d5af5f53ec550a154bd6721d9c82d1e04cbcc8d3d048845870b9973ab365bc5c"
+metafile = true
+
+[[files]]
+file = "mods/beebuddy.pw.toml"
+hash = "026740c424c11113dad832333303bffa9fd274f9087002e1894727790b11ab78"
 metafile = true
 
 [[files]]
@@ -960,6 +1021,11 @@ metafile = true
 [[files]]
 file = "mods/fabrication.pw.toml"
 hash = "e915cfcfab5d750c8c871038be740c1fb7331b3d21ceb7a733e21f8a61b6573c"
+metafile = true
+
+[[files]]
+file = "mods/factory-blocks.pw.toml"
+hash = "319a316a41db9adfda48349bd92fa8cefe43ba5aee2d5cf41cb9ab9525dcfeac"
 metafile = true
 
 [[files]]

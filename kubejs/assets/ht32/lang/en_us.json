@@ -36,6 +36,8 @@
     "ht32.origin.mobile_mind.desc": "This mind is not bound to a single body, instead they may craft new ones and swap between them as they please.",
     "ht32.origin.reality_engine": "Reality Engine",
     "ht32.origin.reality_engine.desc": "The Reality Engine is a piece of technology that has been embedded within this being. This has caused the being to gain some minor control over the Reality Engine; with detriments to their physical body and their dimensional displacement.",
+    "ht32.origin.mycelial_symbiont": "Mycelial Symbiont",
+    "ht32.origin.mycelial_symbiont.desc": "A mycelium mind hosted within an organic body.",
     
     "ht32.power.ambystomic": "Ambystomic Heritage",
     "ht32.power.ambystomic.desc": "You can breath in water, and kills remove debuffs from nearby players while healing them.",
@@ -80,5 +82,15 @@
     "ht32.power.wax_weaver": "Wax Weaver",
     "ht32.power.wax_weaver.desc": "As one with the hive and of beeish talents, you can craft some things others cannot.",
     "ht32.power.weight_alter": "Weight Alteration",
-    "ht32.power.weight_alter.desc": "You can alter the amount of force gravity applies on you, allowing you to jump higher or fall faster."
+    "ht32.power.weight_alter.desc": "You can alter the amount of force gravity applies on you, allowing you to jump higher or fall faster.",
+    "ht32.power.necrotroph": "Necrotroph",
+    "ht32.power.necrotroph.desc": "You can digest rotten flesh much better than most, providing you excellent nutrition.",
+    "ht32.power.nutrient_fixer": "Nutrient Fixer",
+    "ht32.power.nutrient_fixer.desc": "Your digestive processes produce byproducts useful to many plants in the enviroment; eating produces bone meal.",
+    "ht32.power.mycelial_network": "Mycelial Network",
+    "ht32.power.mycelial_network.desc": "You can connect with the mycelium around you, allowing you to access and store items in the mycelial network while near a mushroom.",
+    "ht32.power.photosensitive": "Photosensitive",
+    "ht32.power.photosensitive.desc": "Being exposed to sunlight disables natural regen unless you are standing on mycelium.",
+    "ht32.power.mycotoxins": "Mycotoxins",
+    "ht32.power.mycotoxins.desc": "Entities that directly attack you receive the withering effect."
 }

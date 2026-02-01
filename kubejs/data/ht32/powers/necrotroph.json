@@ -1,0 +1,42 @@
+{
+    "type": "origins:action_on_item_use",
+    "entity_action": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:feed",
+                "food": 2,
+                "saturation": 1.25
+            },
+            {
+                "type": "origins:delay",
+                "ticks": 1,
+                "action": {
+                    "type": "origins:clear_effect",
+                    "effect": "minecraft:hunger"
+                }
+            },
+            {
+                "type": "origins:apply_effect",
+                "effects": [
+                    {
+                        "effect": "farmersdelight:comfort",
+                        "duration": 1200
+                    },
+                    {
+                        "effect": "farmersdelight:nourishment",
+                        "duration": 1200
+                    }
+                ]
+            }
+        ]
+    },
+    "item_condition": {
+        "type": "origins:ingredient",
+        "ingredient": {
+            "item": "minecraft:rotten_flesh"
+        }
+    },
+    "name": "ht32.power.necrotroph",
+    "description": "ht32.power.necrotroph.desc"
+}
