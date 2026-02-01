@@ -1133,6 +1133,11 @@ file = "mods/helpfromhexxy-fabric-1.20.1-0.1.3.jar"
 hash = "3053806c56011d4d4017d6fb5a4b5853375cbbf8188bb062cb1ce31d4e057f1a"
 
 [[files]]
+file = "mods/hex-casting.pw.toml"
+hash = "e7618fe94cbf0b7ea032e45cb448ab8151773ef71adb6dda8becd4d2fcc4dab5"
+metafile = true
+
+[[files]]
 file = "mods/hex-machina.pw.toml"
 hash = "4909540724dd1ed0dc1ece335f34f09f6da522afc357dfe7ec0cc21d75d68c17"
 metafile = true
@@ -1207,7 +1212,7 @@ metafile = true
 
 [[files]]
 file = "mods/hextended-staves.pw.toml"
-hash = "757774e68391ed09ec99fadf5564db6649519f11a9114b63a4f162932209e11e"
+hash = "f24bbafda4b129d94153f559f3f3612c6a96f167208f8e8f7c9d7a00237536e1"
 metafile = true
 
 [[files]]
