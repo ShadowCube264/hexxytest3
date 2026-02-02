@@ -210,7 +210,7 @@ hash = "81ac4bf6d9c7999ee82e19c26a4ee9d1ef56c15fcc01697bf29f63991e316e1b"
 
 [[files]]
 file = "kubejs/assets/ht32/lang/en_us.json"
-hash = "7a712ca743f8942ab4036ad303993fb1df450eb1f2c381002e56492af4a14e06"
+hash = "f66d8da30b89b8a50d495816fd743a875e564b5b79775887820434e69513932a"
 
 [[files]]
 file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
@@ -326,7 +326,7 @@ hash = "15c852c4bcafdb5ec7a109e6e242fe07dbe0e13d53cee36ab7068350262c18f8"
 
 [[files]]
 file = "kubejs/data/ht32/powers/bionic.json"
-hash = "df51d03ee50a036fa5e486aef7cc7b6a96ceae37ba2c106c7c8917cf541f3d0d"
+hash = "d544dcf91563308c06efa7bc83e1bec4c2b0d561a2214d16b4cd5e5759e04565"
 
 [[files]]
 file = "kubejs/data/ht32/powers/body_builder.json"
@@ -334,7 +334,7 @@ hash = "6efaabdf13d91f24626f47e29821d04fef8d89d3c9564fd23566ccc2edec361d"
 
 [[files]]
 file = "kubejs/data/ht32/powers/breathless_glide.json"
-hash = "74e23acff04a6e6289493787359b99a0bbe0353559d36a1ffc1f73ab1f9adf19"
+hash = "bb36ad152917bcfb20b3adce2d96c06cb345ee4fd30adc32973c8016839297da"
 
 [[files]]
 file = "kubejs/data/ht32/powers/destabilizing.json"
@@ -398,7 +398,7 @@ hash = "be42dd24d64fce002ad34d0b4e7c41b536a5fc67af34aade0ef2d0d6dd8e1857"
 
 [[files]]
 file = "kubejs/data/ht32/powers/shock_absorb.json"
-hash = "5a1a5ac1a5f530a7e61449c896dc50f18c3de33072be6a47cafd3d8a500a9397"
+hash = "e63dfbee39f6d19c00d6abbc1c5084352e266e15d8869fa9e19c7481fe0ac642"
 
 [[files]]
 file = "kubejs/data/ht32/powers/spore_spreader.json"
@@ -406,7 +406,7 @@ hash = "c109ed21764ca0c0697e337f387be6edb01c0f86af35ca17edf7506f7a22cbae"
 
 [[files]]
 file = "kubejs/data/ht32/powers/swap_bodies.json"
-hash = "cffd5457c51d47b17161e5540281e9883ce7f32bb563c2a5202d2e9421c29c1e"
+hash = "9170cfd52f941a6ddc1b7b4d03d92c435599609636e098a1b0a454f893c17f2f"
 
 [[files]]
 file = "kubejs/data/ht32/powers/swap_sickness.json"
@@ -447,6 +447,10 @@ hash = "7907bd215209842f28fd162926275f05fa6e92d0b5b99bb8979f1df094c2afe9"
 [[files]]
 file = "kubejs/data/ht32/recipes/rotten_flesh.json"
 hash = "8c9dfd7e0dc1861a28af123b9ef9f1eb4231588895c45cf3c6edc564b54ea937"
+
+[[files]]
+file = "kubejs/data/ht32/tags/damage_type/is_impact.json"
+hash = "1b88140d9af18ec7e50f19e692c0d5649abf7e39b73972a6799963dd171514c8"
 
 [[files]]
 file = "kubejs/data/minecraft/tags/functions/load.json"
@@ -1181,10 +1185,6 @@ hash = "39c4551b9e938e48177949696ae6547af8c426f5394b3faea2e74f8e0e8188da"
 [[files]]
 file = "mods/hexical-2.0.0.jar"
 hash = "ad0fc01d2886b6cb54f38c4bade07b682f18cdc77c3b0047b6043653b5672807"
-
-[[files]]
-file = "mods/hexodus-1.0.0.jar"
-hash = "d8b97fd1b1a53bcda35cdc2f4982e5192256f01a0899c334a62ec860011bc104"
 
 [[files]]
 file = "mods/hexodus.pw.toml"
