@@ -1147,17 +1147,14 @@ hash = "4909540724dd1ed0dc1ece335f34f09f6da522afc357dfe7ec0cc21d75d68c17"
 metafile = true
 
 [[files]]
-file = "mods/hexal-fabric-1.20.1-0.3.0-3-skyevg-unofficial-teleport-experiment.jar"
-hash = "bcfb8776ec7254c451c0070585e8bab2c706c227f78bcc8c6ee8da296285cb68"
+file = "mods/hexal.pw.toml"
+hash = "3e51d9ad93efb292181f8960816a58707ae28841c310b77c28721ac7039931d1"
+metafile = true
 
 [[files]]
 file = "mods/hexcassettes.pw.toml"
 hash = "b55dfeeab67b72e837f945ffe75dc5b5297a359bba6ffc99dc3eae6161dc5ec3"
 metafile = true
-
-[[files]]
-file = "mods/hexcasting-fabric-1.20.1-0.11.2.3-SpellCircle.jar"
-hash = "dceae4cced759186418226e4633a35fd1005664450734d9a62117aa49c393dd9"
 
 [[files]]
 file = "mods/hexcellular-1.1.0.jar"
@@ -1197,8 +1194,9 @@ hash = "b0475cd3af4c279c6e7f8c5d697f0d552b179c4ad97983a172bf47daec131510"
 metafile = true
 
 [[files]]
-file = "mods/hexportation-fabric-1.20.1-0.0.2.jar"
-hash = "36bcd2b0a39b411211f7270544be3f8bcca11a90740b038c18ebc5c5d5ed7a2e"
+file = "mods/hexportation.pw.toml"
+hash = "b5ed3b3b787b8cda46501f21bf1b7a1366a81a1ca64f87892e909eff19c15a56"
+metafile = true
 
 [[files]]
 file = "mods/hexpose.pw.toml"
@@ -1461,7 +1459,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreiotas.pw.toml"
-hash = "1971cb686718e5213523c40171b1b8b94af5d3c1fb032f425247aeba9edafaca"
+hash = "6757363eeff33967a7beb9782d833cd9f23486933a88373e576a3856fbbaf1bd"
 metafile = true
 
 [[files]]
