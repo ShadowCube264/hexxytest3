@@ -1,0 +1,17 @@
+{
+    "name": "vault_start_gen",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "ht32:vault_end",
+                "processors": {
+                    "processors": []
+                }
+            }
+        }
+    ]
+}
