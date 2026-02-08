@@ -217,6 +217,10 @@ file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
+file = "kubejs/assets/spectrum/sounds/music/proper_motions_everreflective.ogg"
+hash = "d72e5604761abc30d262db0b1aba38216068ff362a3e9184fe364fa4e7da4cb7"
+
+[[files]]
 file = "kubejs/data/c/tags/blocks/mushrooms.json"
 hash = "b609618ef00f8a930b21665c2706b057c06fdc169806da19ad551b640dd2bdf3"
 
