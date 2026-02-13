@@ -1402,6 +1402,11 @@ hash = "c2cfcb46a6e8f84a3526745d9636728162626cff9caff64cd7464f5def3d533a"
 metafile = true
 
 [[files]]
+file = "mods/mediatransport.pw.toml"
+hash = "0f6cefb7aba95e645942fb0fce77b58a20841dd45c08bedb97ad0517ff918478"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
@@ -1729,7 +1734,7 @@ metafile = true
 
 [[files]]
 file = "mods/slate-works.pw.toml"
-hash = "2b4c8168e68b2342c4f900c6eb23cb1dbff964f0084bf3571ec6b347a7ea05ed"
+hash = "a4d536a8635161fe2b51bb4b129443421274b7715eb46de03d180f19bc044f70"
 metafile = true
 
 [[files]]
