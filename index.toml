@@ -217,6 +217,10 @@ file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
+file = "kubejs/assets/spectrum/sounds/music/proper_motions_everreflective.ogg"
+hash = "d72e5604761abc30d262db0b1aba38216068ff362a3e9184fe364fa4e7da4cb7"
+
+[[files]]
 file = "kubejs/data/c/tags/blocks/mushrooms.json"
 hash = "b609618ef00f8a930b21665c2706b057c06fdc169806da19ad551b640dd2bdf3"
 
@@ -1053,9 +1057,8 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
-file = "mods/figura.pw.toml"
-hash = "7bbf8bb6b1c97e37be420ba00963c831e68712ae0217e7e43bc4f0384b9a8f6e"
-metafile = true
+file = "mods/figura-0.1.5+1.20.1-fabric-mc.jar"
+hash = "5a91a2dea94e6906199246919afc76ef7b1d09e51907e5dbcb4b562afb0674a7"
 
 [[files]]
 file = "mods/figurasvc.pw.toml"
@@ -1147,17 +1150,14 @@ hash = "4909540724dd1ed0dc1ece335f34f09f6da522afc357dfe7ec0cc21d75d68c17"
 metafile = true
 
 [[files]]
-file = "mods/hexal-fabric-1.20.1-0.3.0-3-skyevg-unofficial-teleport-experiment.jar"
-hash = "bcfb8776ec7254c451c0070585e8bab2c706c227f78bcc8c6ee8da296285cb68"
+file = "mods/hexal.pw.toml"
+hash = "3e51d9ad93efb292181f8960816a58707ae28841c310b77c28721ac7039931d1"
+metafile = true
 
 [[files]]
 file = "mods/hexcassettes.pw.toml"
 hash = "b55dfeeab67b72e837f945ffe75dc5b5297a359bba6ffc99dc3eae6161dc5ec3"
 metafile = true
-
-[[files]]
-file = "mods/hexcasting-fabric-1.20.1-0.11.2.3-SpellCircle.jar"
-hash = "dceae4cced759186418226e4633a35fd1005664450734d9a62117aa49c393dd9"
 
 [[files]]
 file = "mods/hexcellular-1.1.0.jar"
@@ -1197,8 +1197,9 @@ hash = "b0475cd3af4c279c6e7f8c5d697f0d552b179c4ad97983a172bf47daec131510"
 metafile = true
 
 [[files]]
-file = "mods/hexportation-fabric-1.20.1-0.0.2.jar"
-hash = "36bcd2b0a39b411211f7270544be3f8bcca11a90740b038c18ebc5c5d5ed7a2e"
+file = "mods/hexportation.pw.toml"
+hash = "b5ed3b3b787b8cda46501f21bf1b7a1366a81a1ca64f87892e909eff19c15a56"
+metafile = true
 
 [[files]]
 file = "mods/hexpose.pw.toml"
@@ -1400,6 +1401,11 @@ hash = "c2cfcb46a6e8f84a3526745d9636728162626cff9caff64cd7464f5def3d533a"
 metafile = true
 
 [[files]]
+file = "mods/mediatransport.pw.toml"
+hash = "0f6cefb7aba95e645942fb0fce77b58a20841dd45c08bedb97ad0517ff918478"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
@@ -1461,7 +1467,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreiotas.pw.toml"
-hash = "1971cb686718e5213523c40171b1b8b94af5d3c1fb032f425247aeba9edafaca"
+hash = "6757363eeff33967a7beb9782d833cd9f23486933a88373e576a3856fbbaf1bd"
 metafile = true
 
 [[files]]
@@ -1727,7 +1733,7 @@ metafile = true
 
 [[files]]
 file = "mods/slate-works.pw.toml"
-hash = "2b4c8168e68b2342c4f900c6eb23cb1dbff964f0084bf3571ec6b347a7ea05ed"
+hash = "a7d049e908ae3a826176135b6bd753925451fb74fe3fdbd4ec3372ead38ab224"
 metafile = true
 
 [[files]]
