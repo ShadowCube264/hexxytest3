@@ -3,7 +3,7 @@
     "fallback": "minecraft:empty",
     "elements": [
         {
-            "weight": 10,
+            "weight": 20,
             "element": {
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
@@ -25,7 +25,18 @@
             }
         },
         {
-            "weight": 20,
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "ht32:vault_enter2",
+                "processors": {
+                    "processors": []
+                }
+            }
+        },
+        {
+            "weight": 55,
             "element": {
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
@@ -36,7 +47,7 @@
             }
         },
         {
-            "weight": 10,
+            "weight": 20,
             "element": {
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
