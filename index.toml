@@ -206,11 +206,15 @@ hash = "407eab8a355509eb78841a0f6fe4eb80cd554b8aa4ec8d362e50a164fee88d21"
 
 [[files]]
 file = "kubejs/assets/hexcasting/patchouli_books/thehexbook/en_us/entries/l_trans/glass.json"
-hash = "81ac4bf6d9c7999ee82e19c26a4ee9d1ef56c15fcc01697bf29f63991e316e1b"
+hash = "e71d26bd5cae5f72587a9c68ee32b024c27ea0b1d028059c5b0b3b9470c41bc5"
+
+[[files]]
+file = "kubejs/assets/hexcasting/patchouli_books/thehexbook/en_us/entries/l_trans/stones.json"
+hash = "1e4b55d0f6d331221df62b3378c0bd653a99afe39cc804c50930c3abcd1d98a8"
 
 [[files]]
 file = "kubejs/assets/ht32/lang/en_us.json"
-hash = "f66d8da30b89b8a50d495816fd743a875e564b5b79775887820434e69513932a"
+hash = "54f19b99abb57318468271bdc915b61701bd1ec7ae39073a5faad18b37d87edb"
 
 [[files]]
 file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
@@ -246,7 +250,7 @@ hash = "8ba5541a063bef5132747db1281ea73030b40a0e9944fc1d042f58da4a50a2fb"
 
 [[files]]
 file = "kubejs/data/ht32/functions/l_trans/transmute.mcfunction"
-hash = "598055338c4e82c7104376f4a0051cc81b0fd46e56ecb962cb96da72014ad5e8"
+hash = "88c33dafdb96f2fd72472c6f2beab7e827a919a0bada1c3f418bbb5602ce42ec"
 
 [[files]]
 file = "kubejs/data/ht32/functions/load.mcfunction"
@@ -298,7 +302,7 @@ hash = "62251804df85ec32e5e80f601b69b5f42f6bcc665ea7e4b4c1fb883ea6149b50"
 
 [[files]]
 file = "kubejs/data/ht32/origins/bumblekin.json"
-hash = "26875d964b148f11ab38133b5084c8a2b78385460ee37bbb897c14dd22e9df38"
+hash = "2d7f1b8ed7fb159aaa42d3909b39a9f5c243c72f2940b98433063982ddc49920"
 
 [[files]]
 file = "kubejs/data/ht32/origins/lich.json"
@@ -339,6 +343,10 @@ hash = "6efaabdf13d91f24626f47e29821d04fef8d89d3c9564fd23566ccc2edec361d"
 [[files]]
 file = "kubejs/data/ht32/powers/breathless_glide.json"
 hash = "bb36ad152917bcfb20b3adce2d96c06cb345ee4fd30adc32973c8016839297da"
+
+[[files]]
+file = "kubejs/data/ht32/powers/bzone_spawn.json"
+hash = "c261fd702e2ae3ff4a698144a3276deb88242d22ba5dde4dd6d2f5b0884f73ce"
 
 [[files]]
 file = "kubejs/data/ht32/powers/destabilizing.json"
@@ -453,8 +461,44 @@ file = "kubejs/data/ht32/recipes/rotten_flesh.json"
 hash = "8c9dfd7e0dc1861a28af123b9ef9f1eb4231588895c45cf3c6edc564b54ea937"
 
 [[files]]
+file = "kubejs/data/ht32/structures/vault_corner.nbt"
+hash = "429adea255034176d8acb7bb34ca9abe5a2256778a81f1d4408476d07ab5f3e1"
+
+[[files]]
+file = "kubejs/data/ht32/structures/vault_end.nbt"
+hash = "0c51d4ea858be9d1ea903c1cb9f81c60379263039de8ed8b832b3b74b80fc71c"
+
+[[files]]
+file = "kubejs/data/ht32/structures/vault_enter.nbt"
+hash = "fe73671748101c5d1873a3d887a297b1421637f0720549f294f3d73fe02e83d2"
+
+[[files]]
+file = "kubejs/data/ht32/structures/vault_enter2.nbt"
+hash = "006f345d9bd1a3adee9ebb1d8e7b499e7d170a21ab394fd1d8278a0d46e9c5c9"
+
+[[files]]
+file = "kubejs/data/ht32/structures/vault_hallway.nbt"
+hash = "b7feaeee44c7f07eb8e3964f5efe0488f50f1f4fd14bbec9dae56865c369707a"
+
+[[files]]
+file = "kubejs/data/ht32/structures/vault_start.nbt"
+hash = "f8bb5d5ba361cd83b841d549a5e589b8b3d4a1bdffa47f967a35b89ca774a44d"
+
+[[files]]
 file = "kubejs/data/ht32/tags/damage_type/is_impact.json"
 hash = "1b88140d9af18ec7e50f19e692c0d5649abf7e39b73972a6799963dd171514c8"
+
+[[files]]
+file = "kubejs/data/ht32/worldgen/structure/noo_vault.json"
+hash = "b4461eb27a6c570e51c98ee212ec146183ff8ff609d26967ad8bf91d48624221"
+
+[[files]]
+file = "kubejs/data/ht32/worldgen/template_pool/vault.json"
+hash = "0d39281db2bd62e360bb7212175f634331a7bc66721f8202773a2ff6bf0a5d5d"
+
+[[files]]
+file = "kubejs/data/ht32/worldgen/template_pool/vault_start_gen.json"
+hash = "3a30667fd21ef0aeb57878ce30bd6de9431d1c50df2afa60a1a7cae8a9013eee"
 
 [[files]]
 file = "kubejs/data/minecraft/tags/functions/load.json"
@@ -463,6 +507,14 @@ hash = "716a9901b0fc0966e84975ca48508656bdf6b51d14f677c37b4d9b555ca0449b"
 [[files]]
 file = "kubejs/data/minecraft/tags/functions/tick.json"
 hash = "aca56098d1e72378ddf8a938c5d6c5c40a96cdfd4f1a20afb49dcecd410373da"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/items/stone_crafting_materials.json"
+hash = "5c6039c7e867f16994b070220c5c26afd9529fd434e7cc94442c382a3283016e"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/items/stone_tool_materials.json"
+hash = "5c6039c7e867f16994b070220c5c26afd9529fd434e7cc94442c382a3283016e"
 
 [[files]]
 file = "kubejs/data/origins/origin_layers/origin.json"
