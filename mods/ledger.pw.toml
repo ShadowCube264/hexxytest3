@@ -1,13 +1,8 @@
 name = "Ledger"
-filename = "ledger-1.2.8.jar"
+filename = "Ledger-1.2.8.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/LVN9ygNV/versions/pOxgWfwI/ledger-1.2.8.jar"
-hash-format = "sha1"
-hash = "6f07421ba3fbe99086f1471c7cc8d8c7fed5dd45"
-
-[update]
-[update.modrinth]
-mod-id = "LVN9ygNV"
-version = "pOxgWfwI"
+url = "https://github.com/ShadowCube264/Ledger/releases/download/v1.2.8-new/Ledger-1.2.8.jar"
+hash-format = "sha256"
+hash = "74f2b35f74abc88663d2eee78fc6e01b13b1cee4213d129adc6e7be1cd397703"
