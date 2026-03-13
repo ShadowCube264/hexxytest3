@@ -25,6 +25,18 @@
     "ht32.page.glass/red_sand.text": "Becomes Red Stained Glass",
     "ht32.page.glass/soul_sand": "Soul Sand",
     "ht32.page.glass/soul_sand.text": "Becomes Tinted Glass",
+    "ht32.page.glass/casting_sand": "Casting Sand",
+    "ht32.page.glass/casting_sand.text": "Becomes Quartz Glass",
+    "ht32.page.glass/redstone_sand": "Redstone Sand",
+    "ht32.page.glass/redstone_sand.text": "Becomes Anti-Raycast Glass",
+    
+    "ht32.entry.stones": "Stones",
+    "ht32.page.stones/stone": "Stone",
+    "ht32.page.stones/stone.text": "Becomes Schist",
+    "ht32.page.stones/deepslate": "Deepslate",
+    "ht32.page.stones/deepslate.text": "Becomes Rhyolite",
+    "ht32.page.stones/blackstone": "Blackstone",
+    "ht32.page.stones/blackstone.text": "Becomes Bloodstone",
     
     "ht32.origin.axolane": "Axolane",
     "ht32.origin.axolane.desc": "A biomechanical creature, part axolotl, part plane; familiar with the waters and the skies.",
