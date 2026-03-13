@@ -1,0 +1,26 @@
+{
+    "name": "ht32.entry.stones",
+    "category": "hexcasting:l_trans",
+    "icon": "minecraft:stone",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:stone",
+            "title": "ht32.page.stones/stone",
+            "text": "ht32.page.stones/stone.text"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:deepslate",
+            "title": "ht32.page.stones/deepslate",
+            "text": "ht32.page.stones/deepslate.text"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:blackstone",
+            "title": "ht32.page.stones/blackstone",
+            "text": "ht32.page.stones/blackstone.text"
+        }
+    ]
+}
