@@ -1404,7 +1404,7 @@ metafile = true
 
 [[files]]
 file = "mods/ledger.pw.toml"
-hash = "84defc8f8116d5c0e4210934ed1f555641a1db71b767fa4beddee21c47118868"
+hash = "32ef4291212eae2df5f8541f9d219122746d6aa8a3986d954c6963f411efb059"
 metafile = true
 
 [[files]]
@@ -1839,9 +1839,8 @@ hash = "1442d11df9f8b5a16669927206471e67182f9201dd3b004e054681df45bec96e"
 metafile = true
 
 [[files]]
-file = "mods/spectrum.pw.toml"
-hash = "0ae5133d5ff39f73f7c15e96e30fe0973caf544250c8c42a8d88a91eccbc5581"
-metafile = true
+file = "mods/spectrum-1.8.12.jar"
+hash = "23fe1f26b545b058bd23262516b4248f986b5e78cbf2881796123d590d54cad7"
 
 [[files]]
 file = "mods/stackdeobf.pw.toml"
