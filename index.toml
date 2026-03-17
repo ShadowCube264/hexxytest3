@@ -1217,7 +1217,7 @@ hash = "ee7ce93b869ccdd4637860f73c13c0fa4a22220f117cdcb4e943cfa37e119073"
 
 [[files]]
 file = "mods/hexcessible.pw.toml"
-hash = "b516b8105445dc6173dee21cad91e2eb26a0371ff0a222602aa2ee680e68cc8f"
+hash = "35d3a24798f323f90e21f4094022ecbb6ee55b83c29ec2882307ea53ec7fd6f0"
 metafile = true
 
 [[files]]
@@ -1284,7 +1284,7 @@ metafile = true
 
 [[files]]
 file = "mods/hierophantics.pw.toml"
-hash = "e3dc35867033e7f35f9209d305fbf01c0842cf2180ef3fb23097a118d15e585e"
+hash = "c5527b981d57d48b3cb94ce79c2f223c5a62e84ac71c34b40d11c773ca838cd8"
 metafile = true
 
 [[files]]
