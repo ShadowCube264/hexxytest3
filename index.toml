@@ -687,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/caduceus.pw.toml"
-hash = "3a1618baeb83998093b5efd720776c85996aeca363b4ce7c491b2c9ad27179a5"
+hash = "870c93531e99b2c4e9385d52b02b39fec974a24de0a6e316c18ae68c1b873bbc"
 metafile = true
 
 [[files]]
