@@ -687,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/caduceus.pw.toml"
-hash = "3a1618baeb83998093b5efd720776c85996aeca363b4ce7c491b2c9ad27179a5"
+hash = "870c93531e99b2c4e9385d52b02b39fec974a24de0a6e316c18ae68c1b873bbc"
 metafile = true
 
 [[files]]
@@ -1217,7 +1217,7 @@ hash = "ee7ce93b869ccdd4637860f73c13c0fa4a22220f117cdcb4e943cfa37e119073"
 
 [[files]]
 file = "mods/hexcessible.pw.toml"
-hash = "b516b8105445dc6173dee21cad91e2eb26a0371ff0a222602aa2ee680e68cc8f"
+hash = "35d3a24798f323f90e21f4094022ecbb6ee55b83c29ec2882307ea53ec7fd6f0"
 metafile = true
 
 [[files]]
@@ -1227,7 +1227,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexdebug.pw.toml"
-hash = "01f562a0058883a650b9c43c98fb4c96316afa45a8583e7de8de9970dd968ddf"
+hash = "b48832001c692143d8140577323ec8033bfe868c44d79daa27cdd8a64913cf40"
 metafile = true
 
 [[files]]
@@ -1235,8 +1235,8 @@ file = "mods/hexdeco-1.2.jar"
 hash = "39c4551b9e938e48177949696ae6547af8c426f5394b3faea2e74f8e0e8188da"
 
 [[files]]
-file = "mods/hexical-2.0.0.jar"
-hash = "ad0fc01d2886b6cb54f38c4bade07b682f18cdc77c3b0047b6043653b5672807"
+file = "mods/hexical-2.0.0-e0d7ef9.jar"
+hash = "1fc2f62878be4f6fa4765e20d186986f4948670e1a04aaabbf8844a4d03b4080"
 
 [[files]]
 file = "mods/hexodus.pw.toml"
@@ -1284,7 +1284,7 @@ metafile = true
 
 [[files]]
 file = "mods/hierophantics.pw.toml"
-hash = "e3dc35867033e7f35f9209d305fbf01c0842cf2180ef3fb23097a118d15e585e"
+hash = "c5527b981d57d48b3cb94ce79c2f223c5a62e84ac71c34b40d11c773ca838cd8"
 metafile = true
 
 [[files]]
