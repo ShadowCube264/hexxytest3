@@ -1814,6 +1814,16 @@ hash = "c35fd026032c71290169c13c14db3140e1e95a8c449e3b45e71738fc586beaa2"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
+hash = "0238d3e484f1829aaabb3b2482e528e192f3124fad89d81f43d7b60406e17d71"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
+hash = "7bbc2d52041fddcb8572b50cbe39cdff6f83060da3b16eb965d882bb7ee852c3"
+metafile = true
+
+[[files]]
 file = "mods/spacecube.pw.toml"
 hash = "92c4093dacf1cb1a1791ae06a886223d532b23aa75ea9b2cd8938a788e6cc4ac"
 metafile = true
