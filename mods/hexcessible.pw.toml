@@ -15,3 +15,4 @@ version = "QcVcZ1we"
 [option]
 optional = true
 default = true
+description = "Keyboard-based casting, pattern autocomplete, various other accessibility options"
