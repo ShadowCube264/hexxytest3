@@ -1202,6 +1202,11 @@ hash = "4909540724dd1ed0dc1ece335f34f09f6da522afc357dfe7ec0cc21d75d68c17"
 metafile = true
 
 [[files]]
+file = "mods/hex-spell-wheel.pw.toml"
+hash = "fadac4d7d507b1a56bd544da6a54d43253b2accd84e30285c8aa60a75fb7f1dd"
+metafile = true
+
+[[files]]
 file = "mods/hexal.pw.toml"
 hash = "3e51d9ad93efb292181f8960816a58707ae28841c310b77c28721ac7039931d1"
 metafile = true
@@ -1217,7 +1222,7 @@ hash = "ee7ce93b869ccdd4637860f73c13c0fa4a22220f117cdcb4e943cfa37e119073"
 
 [[files]]
 file = "mods/hexcessible.pw.toml"
-hash = "35d3a24798f323f90e21f4094022ecbb6ee55b83c29ec2882307ea53ec7fd6f0"
+hash = "a86e7fc5cfba961a56aed41f914ae72ddfd43957570091d080df0b2f7fce8d10"
 metafile = true
 
 [[files]]
