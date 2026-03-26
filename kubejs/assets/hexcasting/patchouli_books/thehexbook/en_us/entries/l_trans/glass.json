@@ -1,0 +1,38 @@
+{
+    "name": "ht32.entry.glass",
+    "category": "hexcasting:l_trans",
+    "icon": "minecraft:glass",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:sand",
+            "title": "ht32.page.glass/sand",
+            "text": "ht32.page.glass/sand.text"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:red_sand",
+            "title": "ht32.page.glass/red_sand",
+            "text": "ht32.page.glass/red_sand.text"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:soul_sand",
+            "title": "ht32.page.glass/soul_sand",
+            "text": "ht32.page.glass/soul_sand.text"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "createbigcannons:casting_sand",
+            "title": "ht32.page.glass/casting_sand",
+            "text": "ht32.page.glass/casting_sand.text"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "spectrum:redstone_sand",
+            "title": "ht32.page.glass/redstone_sand",
+            "text": "ht32.page.glass/redstone_sand.text"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "powers": [
+        "ht32:media_siphon",
+        "ht32:scrying_eyes",
+        "ht32:ruminate_xp"
+    ],
+    "icon": {
+        "item": "hexcasting:default_colorizer"
+    },
+    "order": 8,
+    "impact": 3,
+    "name": "ht32.origin.lich",
+    "description": "ht32.origin.lich.desc"
+}

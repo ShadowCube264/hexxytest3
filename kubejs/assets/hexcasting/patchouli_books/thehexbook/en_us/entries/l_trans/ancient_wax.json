@@ -1,0 +1,26 @@
+{
+    "name": "ht32.entry.ancient_wax",
+    "category": "hexcasting:l_trans",
+    "icon": "the_bumblezone:ancient_wax_diamond",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "the_bumblezone:carvable_wax_bricks",
+            "title": "ht32.page.ancient_wax/bricks",
+            "text": "ht32.page.ancient_wax/bricks.text"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "the_bumblezone:carvable_wax_diamond",
+            "title": "ht32.page.ancient_wax/diamond",
+            "text": "ht32.page.ancient_wax/diamond.text"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "the_bumblezone:carvable_wax",
+            "title": "ht32.page.ancient_wax/eyes",
+            "text": "ht32.page.ancient_wax/eyes.text"
+        }
+    ]
+}

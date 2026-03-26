@@ -169,6 +169,6 @@
         "type": "origins:projectile",
         "inverted": true
     },
-    "name": "Destabilizing Attack",
-    "description": "Attacking an entity can cause the Reality Engine to alter spacetime around that entity randomly."
+    "name": "ht32.power.destabilizing",
+    "description": "ht32.power.destabilizing.desc"
 }

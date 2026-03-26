@@ -1,0 +1,10 @@
+{
+    "type": "origins:attribute",
+    "modifier": {
+        "attribute": "minecraft:generic.max_health",
+        "value": -0.5,
+        "operation": "multiply_total"
+    },
+    "name": "ht32.power.swap_sickness",
+    "description": "ht32.power.swap_sickness.desc"
+}

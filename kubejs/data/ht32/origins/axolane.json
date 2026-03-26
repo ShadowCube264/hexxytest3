@@ -1,0 +1,16 @@
+{
+    "powers": [
+        "ht32:bionic",
+        "ht32:abystomic",
+        "ht32:breathless_glide",
+        "ht32:shock_absorb",
+        "ht32:vestigial"
+    ],
+    "icon": {
+        "item": "minecraft:axolotl_bucket"
+    },
+    "impact": 3,
+    "order": 10,
+    "name": "ht32.origin.axolane",
+    "description": "ht32.origin.axolane.desc"
+}

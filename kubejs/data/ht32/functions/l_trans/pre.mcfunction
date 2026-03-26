@@ -1,0 +1,29 @@
+execute positioned ~-1 ~-1 ~-1 run function ht32:l_trans/transmute
+execute positioned ~-1 ~-1 ~ run function ht32:l_trans/transmute
+execute positioned ~-1 ~-1 ~1 run function ht32:l_trans/transmute
+execute positioned ~ ~-1 ~-1 run function ht32:l_trans/transmute
+execute positioned ~ ~-1 ~ run function ht32:l_trans/transmute
+execute positioned ~ ~-1 ~1 run function ht32:l_trans/transmute
+execute positioned ~1 ~-1 ~-1 run function ht32:l_trans/transmute
+execute positioned ~1 ~-1 ~ run function ht32:l_trans/transmute
+execute positioned ~1 ~-1 ~1 run function ht32:l_trans/transmute
+
+execute positioned ~-1 ~ ~-1 run function ht32:l_trans/transmute
+execute positioned ~-1 ~ ~ run function ht32:l_trans/transmute
+execute positioned ~-1 ~ ~1 run function ht32:l_trans/transmute
+execute positioned ~ ~ ~-1 run function ht32:l_trans/transmute
+execute positioned ~ ~ ~ run function ht32:l_trans/transmute
+execute positioned ~ ~ ~1 run function ht32:l_trans/transmute
+execute positioned ~1 ~ ~-1 run function ht32:l_trans/transmute
+execute positioned ~1 ~ ~ run function ht32:l_trans/transmute
+execute positioned ~1 ~ ~1 run function ht32:l_trans/transmute
+
+execute positioned ~-1 ~1 ~-1 run function ht32:l_trans/transmute
+execute positioned ~-1 ~1 ~ run function ht32:l_trans/transmute
+execute positioned ~-1 ~1 ~1 run function ht32:l_trans/transmute
+execute positioned ~ ~1 ~-1 run function ht32:l_trans/transmute
+execute positioned ~ ~1 ~ run function ht32:l_trans/transmute
+execute positioned ~ ~1 ~1 run function ht32:l_trans/transmute
+execute positioned ~1 ~1 ~-1 run function ht32:l_trans/transmute
+execute positioned ~1 ~1 ~ run function ht32:l_trans/transmute
+execute positioned ~1 ~1 ~1 run function ht32:l_trans/transmute

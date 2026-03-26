@@ -1,0 +1,36 @@
+{
+    "type": "origins:active_self",
+    "cooldown": 20,
+    "entity_action": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:apply_effect",
+                "effect": {
+                    "effect": "oneironaut:rumination",
+                    "duration": 21,
+                    "amplifier": 0
+                }
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "xp add @s -5 points"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "particle minecraft:electric_spark ~ ~1 ~ 0.2 0.4 0.2 1 20"
+            }
+        ]
+    },
+    "condition": {
+        "type": "origins:xp_points",
+        "comparison": ">=",
+        "compare_to": 5
+    },
+    "key": {
+        "key": "key.origins.primary_active",
+        "continuous": true
+    },
+    "name": "ht32.power.ruminate_xp",
+    "description": "ht32.power.ruminate_xp.desc"
+}

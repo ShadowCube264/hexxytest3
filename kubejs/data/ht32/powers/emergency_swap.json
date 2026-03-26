@@ -1,0 +1,49 @@
+{
+    "type": "origins:prevent_death",
+    "damage_condition": {
+        "type": "origins:in_tag",
+        "tag": "minecraft:bypasses_invulnerability",
+        "inverted": true
+    },
+    "entity_action": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:execute_command",
+                "command": "function ht32:swap/find"
+            },
+            {
+                "type": "origins:apply_effect",
+                "effects": [
+                    {
+                        "effect": "minecraft:slowness",
+                        "duration": 200,
+                        "amplifier": 1
+                    },
+                    {
+                        "effect": "minecraft:weakness",
+                        "duration": 1200,
+                        "amplifier": 1
+                    },
+                    {
+                        "effect": "minecraft:mining_fatigue",
+                        "duration": 1200,
+                        "amplifier": 0
+                    }
+                ]
+            },
+            {
+                "type": "origins:heal",
+                "amount": 10
+            }
+        ]
+    },
+    "condition": {
+        "type": "origins:command",
+        "command": "execute at @e[tag=ExtraBody,limit=1,sort=random,type=armor_stand] if score @e[tag=ExtraBody,limit=1,sort=random,type=armor_stand] id = @s id",
+        "comparison": ">",
+        "compare_to": 0
+    },
+    "name": "ht32.power.emergency_swap",
+    "description": "ht32.power.emergency_swap.desc"
+}

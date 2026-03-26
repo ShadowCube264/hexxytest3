@@ -10,6 +10,6 @@
             "show_icon": false
         }
     },
-    "name": "Hive Protection",
-    "description": "As kin to the buzzing folk, you will always have the Protection of the Hive effect."
+    "name": "ht32.power.hive_protection",
+    "description": "ht32.power.hive_protection.desc"
 }

@@ -1,0 +1,17 @@
+{
+    "type": "origins:attribute",
+    "modifiers": [
+        {
+            "attribute": "hexcasting:grid_zoom",
+            "value": 0.33,
+            "operation": "multiply_base"
+        },
+        {
+            "attribute": "hexcasting:scry_sight",
+            "value": 1.0,
+            "operation": "addition"
+        }
+    ],
+    "name": "ht32.power.scrying_eyes",
+    "description": "ht32.power.scrying_eyes.desc"
+}

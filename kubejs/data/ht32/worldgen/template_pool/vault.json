@@ -1,0 +1,61 @@
+{
+    "name": "vault",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 20,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "ht32:vault_start",
+                "processors": {
+                    "processors": []
+                }
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "ht32:vault_enter",
+                "processors": {
+                    "processors": []
+                }
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "ht32:vault_enter2",
+                "processors": {
+                    "processors": []
+                }
+            }
+        },
+        {
+            "weight": 55,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "ht32:vault_hallway",
+                "processors": {
+                    "processors": []
+                }
+            }
+        },
+        {
+            "weight": 20,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "ht32:vault_corner",
+                "processors": {
+                    "processors": []
+                }
+            }
+        }
+    ]
+}

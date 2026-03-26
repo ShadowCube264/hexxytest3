@@ -60,6 +60,6 @@
             }
         }
     },
-    "name": "Wax Weaver",
-    "description": "As one with the hive and of beeish talents, you can craft some things others cannot."
+    "name": "ht32.power.wax_weaver",
+    "description": "ht32.power.wax_weaver.desc"
 }

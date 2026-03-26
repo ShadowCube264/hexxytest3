@@ -48,6 +48,6 @@
             "value": 0
         }
     },
-    "name": "Weight Alteration",
-    "description": "You can alter the amount of force gravity applies on you, allowing you to jump higher or fall faster."
+    "name": "ht32.power.weight_alter",
+    "description": "ht32.power.weight_alter.desc"
 }

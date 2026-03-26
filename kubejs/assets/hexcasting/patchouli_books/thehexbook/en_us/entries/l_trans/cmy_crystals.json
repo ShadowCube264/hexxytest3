@@ -1,0 +1,26 @@
+{
+    "name": "ht32.entry.cmy_crystals",
+    "category": "hexcasting:l_trans",
+    "icon": "minecraft:amethyst_block",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "spectrum:topaz_block",
+            "title": "ht32.page.cmy_crystals/topaz",
+            "text": "ht32.page.cmy_crystals/topaz.text"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:amethyst_block",
+            "title": "ht32.page.cmy_crystals/amethyst",
+            "text": "ht32.page.cmy_crystals/amethyst.text"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "spectrum:citrine_block",
+            "title": "ht32.page.cmy_crystals/citrine",
+            "text": "ht32.page.cmy_crystals/citrine.text"
+        }
+    ]
+}

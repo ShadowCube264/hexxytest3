@@ -1,0 +1,15 @@
+{
+    "type": "origins:action_on_item_use",
+    "entity_action": {
+        "type": "origins:feed",
+        "food": 1,
+        "saturation": 3
+    },
+    "item_condition": {
+        "type": "origins:ingredient",
+        "ingredient": {
+            "item": "the_bumblezone:bee_bread"
+        }
+    },
+    "hidden": true
+}

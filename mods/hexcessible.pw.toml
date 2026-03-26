@@ -1,0 +1,13 @@
+name = "Hexcessible"
+filename = "hexcessible-0.3.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CrGP9qh8/versions/QcVcZ1we/hexcessible-0.3.0.jar"
+hash-format = "sha512"
+hash = "93e52ddb7db3b6d695cc019e0f08623e5e6f65fafee17c762f808bb527b971e383d9d468120693144dba9d1fc01ff3eeeddae7266d99f13e097d5adf9ff18977"
+
+[update]
+[update.modrinth]
+mod-id = "CrGP9qh8"
+version = "QcVcZ1we"

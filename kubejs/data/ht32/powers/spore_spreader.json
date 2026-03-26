@@ -1,0 +1,31 @@
+{
+    "type": "origins:multiple",
+    "create": {
+        "type": "origins:action_on_block_use",
+        "block_action": {
+            "type": "origins:set_block",
+            "block": "minecraft:mycelium"
+        },
+        "block_condition": {
+            "type": "origins:block",
+            "block": "minecraft:dirt_path"
+        },
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "tag": "c:mushrooms"
+            }
+        },
+        "held_item_action": {
+            "type": "origins:consume"
+        }
+    },
+    "pick": {
+        "type": "origins:replace_loot_table",
+        "replace": {
+            "minecraft:blocks/mycelium": "ht32:blocks/mycelium_alt"
+        }
+    },
+    "name": "ht32.power.spore_spreader",
+    "description": "ht32.power.spore_spreader.desc"
+}

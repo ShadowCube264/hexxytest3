@@ -1,0 +1,85 @@
+{
+    "type": "origins:multiple",
+    "breathing": {
+        "type": "origins:action_over_time",
+        "entity_action": {
+            "type": "origins:apply_effect",
+            "effect": {
+                "effect": "minecraft:water_breathing",
+                "duration": 40,
+                "amplifier": 0,
+                "is_ambient": true,
+                "show_particles": false,
+                "show_icon": false
+            }
+        },
+        "condition": {
+            "type": "origins:submerged_in",
+            "fluid": "minecraft:water"
+        }
+    },
+    "kill": {
+        "type": "origins:self_action_on_kill",
+        "entity_action": {
+            "type": "origins:area_of_effect",
+            "radius": 10,
+            "bientity_action": {
+                "type": "origins:target_action",
+                "action": {
+                    "type": "origins:and",
+                    "actions": [
+                        {
+                            "type": "origins:heal",
+                            "amount": 5
+                        },
+                        {
+                            "type": "origins:clear_effect",
+                            "effect": "minecraft:hunger"
+                        },
+                        {
+                            "type": "origins:clear_effect",
+                            "effect": "minecraft:slowness"
+                        },
+                        {
+                            "type": "origins:clear_effect",
+                            "effect": "minecraft:weakness"
+                        },
+                        {
+                            "type": "origins:clear_effect",
+                            "effect": "minecraft:mining_fatigue"
+                        },
+                        {
+                            "type": "origins:clear_effect",
+                            "effect": "minecraft:darkness"
+                        },
+                        {
+                            "type": "origins:clear_effect",
+                            "effect": "minecraft:nausea"
+                        },
+                        {
+                            "type": "origins:clear_effect",
+                            "effect": "minecraft:wither"
+                        },
+                        {
+                            "type": "origins:clear_effect",
+                            "effect": "minecraft:unluck"
+                        },
+                        {
+                            "type": "origins:clear_effect",
+                            "effect": "minecraft:poison"
+                        }
+                    ]
+                }
+            },
+            "bientity_condition": {
+                "type": "origins:target_condition",
+                "condition": {
+                    "type": "origins:entity_type",
+                    "entity_type": "minecraft:player"
+                }
+            }
+        }
+    },
+    "name": "ht32.power.ambystomic",
+    "description": "ht32.power.ambystomic.desc"
+}

@@ -1,0 +1,18 @@
+{
+    "type": "spectrum:titration_barrel",
+    "ingredients": [
+        {
+            "tag": "c:foods/raw_meats",
+            "count": 8
+        }
+    ],
+    "min_fermentation_time_hours": 1,
+    "fluid": {
+        "fluid": "minecraft:water"
+    },
+    "result": {
+        "item": "minecraft:rotten_flesh",
+        "count": 8
+    },
+    "required_advancement": "spectrum:unlocks/blocks/titration_barrel"
+}

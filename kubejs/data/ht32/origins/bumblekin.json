@@ -5,13 +5,17 @@
         "ht32:hively_home",
         "ht32:wax_weaver",
         "ht32:hive_protection",
-        "origins:fragile"
+        "ht32:barbed_stinger",
+        "origins:fragile",
+        "ht32:bbread_buff",
+        "origins:arthropod",
+        "ht32:bzone_spawn"
     ],
     "icon": {
         "item": "the_bumblezone:stingless_bee_helmet_1"
     },
     "order": 6,
     "impact": 3,
-    "name": "Bumblekin",
-    "description": "A buzzy little creature, friend of the various beehives and beenests of the world."
+    "name": "ht32.origin.bumblekin",
+    "description": "ht32.origin.bumblekin.desc"
 }

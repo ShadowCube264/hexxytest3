@@ -70,7 +70,7 @@
       "drink_from_jar": true,
       "drink_from_jar_item": false,
       "jar_auto_detect": false,
-      "jar_capture": true,
+      "jar_capture": false,
       "jar_cookies": true,
       "jar_liquids": true
     },

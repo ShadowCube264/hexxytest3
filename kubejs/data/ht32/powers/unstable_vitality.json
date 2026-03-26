@@ -23,6 +23,6 @@
         "comparison": "<",
         "compare_to": 11
     },
-    "name": "Unstable Vitality",
-    "description": "Taking damage may render the Reality Engine unstable. Should you fall below five hearts it is very likely you will suffer from unfortunate reality modifications."
+    "name": "ht32.power.unstable_vitality",
+    "description": "ht32.power.unstable_vitality.desc"
 }

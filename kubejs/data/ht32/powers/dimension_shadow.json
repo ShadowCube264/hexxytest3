@@ -4,6 +4,6 @@
         "type": "origins:execute_command",
         "command": "function ht32:dimension_shadow"
     },
-    "name": "Dimensional Shadow",
-    "description": "This being's odd nature causes their presence to be broadcasted to all nearby dimensions."
+    "name": "ht32.power.dimension_shadow",
+    "description": "ht32.power.dimension_shadow.desc"
 }

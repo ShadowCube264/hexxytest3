@@ -1,0 +1,15 @@
+{
+    "type": "origins:action_on_item_use",
+    "entity_action": {
+        "type": "origins:give",
+        "stack": {
+            "item": "minecraft:bone_meal",
+            "amount": 1
+        }
+    },
+    "item_condition": {
+        "type": "origins:food"
+    },
+    "name": "ht32.power.nutrient_fixer",
+    "description": "ht32.power.nutrient_fixer.desc"
+}

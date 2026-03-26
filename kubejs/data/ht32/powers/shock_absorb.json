@@ -1,0 +1,13 @@
+{
+    "type": "origins:modify_damage_taken",
+    "damage_condition": {
+        "type": "origins:in_tag",
+        "tag": "ht32:is_impact"
+    },
+    "modifier": {
+        "operation": "set_total",
+        "value": 0
+    },
+    "name": "ht32.power.shock_absorb",
+    "description": "ht32.power.shock_absorb.desc"
+}

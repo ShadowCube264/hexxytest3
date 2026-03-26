@@ -1,0 +1,32 @@
+{
+    "type": "origins:multiple",
+    "storage": {
+        "type": "origins:inventory",
+        "title": "ht32.power.mycelial_network",
+        "container_type": "double_chest",
+        "condition": {
+            "type": "origins:block_in_radius",
+            "block_condition": {
+                "type": "origins:in_tag",
+                "tag": "c:mushrooms"
+            },
+            "radius": 2
+        }
+    },
+    "spawn": {
+        "type": "origins:action_on_block_use",
+        "entity_action": {
+            "type": "origins:execute_command",
+            "command": "function ht32:mycelial_spawn"
+        },
+        "block_condition": {
+            "type": "origins:block",
+            "block": "minecraft:mycelium"
+        },
+        "condition": {
+            "type": "origins:sneaking"
+        }
+    },
+    "name": "ht32.power.mycelial_network",
+    "description": "ht32.power.mycelial_network.desc"
+}

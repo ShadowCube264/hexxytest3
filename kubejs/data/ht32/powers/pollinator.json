@@ -43,6 +43,6 @@
             "compare_to": 0
         }
     },
-    "name": "Pollinator",
-    "description": "Interact flower or crops with an empty hand to collect pollen and nectar. Might cause plant growth."
+    "name": "ht32.power.pollinator",
+    "description": "ht32.power.pollinator.desc"
 }
