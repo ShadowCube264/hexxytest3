@@ -38,7 +38,7 @@ hash = "4bffb5e3af1d5bc26847091629df3427ec15e516030e54805168a50818744c0c"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "86b98ef4e697b0247c7f788ea663c02030f0e3633394e9dc492e112ddf1af070"
+hash = "353d7b791ea6cdae273a59642fb14cdfa5fa43171487b1f4e1a91affb97c7fdc"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
