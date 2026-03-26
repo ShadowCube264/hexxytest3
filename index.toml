@@ -828,8 +828,9 @@ hash = "8bb457a1c12258bd4d0e4612a4da14ecd0c09c7fc4f499b3e75d989bc82981e3"
 metafile = true
 
 [[files]]
-file = "mods/copycats-3.0.4+mc.1.20.1-fabric-build.271.jar"
-hash = "594096ed834cff4fd2f1662e1dd914ee2cd0d454543e780db9742b9800efbc42"
+file = "mods/copycats.pw.toml"
+hash = "79d2d0db0f6cffec9bc3661d9a591ad379e041de1235239dba921f63f452eec7"
+metafile = true
 
 [[files]]
 file = "mods/coroutil.pw.toml"
@@ -844,6 +845,11 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "87ff76b626d247926d90756e19e2a5f36b16bded8937fa63519a1579df91fd48"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "8967141c407b288dbf1e54d452372013f81a90e77930266dea0a0118fd13bd9f"
 metafile = true
 
 [[files]]
@@ -885,10 +891,6 @@ metafile = true
 file = "mods/createaddition.pw.toml"
 hash = "8e0ab4317f114231fa313af5fc1b5fadf0e8096d712bdc1fd7359077a003d389"
 metafile = true
-
-[[files]]
-file = "mods/createdeco-2.1.1-1.20.1-fabric.jar"
-hash = "8387d0857cbc58c1db868acd2a929e704b6df2f0daa11dcd57297ceb953fe26b"
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
@@ -1782,8 +1784,9 @@ hash = "a7d049e908ae3a826176135b6bd753925451fb74fe3fdbd4ec3372ead38ab224"
 metafile = true
 
 [[files]]
-file = "mods/sliceanddice-fabric-3.3.1.jar"
-hash = "17c3e342f3b091c28f13ff1fe0a9b067e4dc2e85edbe0eeba392d5d27c29950b"
+file = "mods/slice-and-dice.pw.toml"
+hash = "6d9a8dac0aeb4cd4776d64a7ef3cca3842073cfcab8e6ea431653b98954f5a4d"
+metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
