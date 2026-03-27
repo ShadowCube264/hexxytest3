@@ -542,6 +542,11 @@ file = "mods/Plethora-Fabric-1.11.7-skyevg-unofficial.jar"
 hash = "a0ba090fead330b6d15cda854d29d3e4b5c19adaab1f280a9c17635657ed31cf"
 
 [[files]]
+file = "mods/a-man-with-plushies.pw.toml"
+hash = "f14a2cdd700781a1e9b7818c095870d2af0c70464d060638d1b25f76f46cd050"
+metafile = true
+
+[[files]]
 file = "mods/ae2-emi-crafting.pw.toml"
 hash = "dbc574ca740d2a8b319c9de4376ffe21c8d02c44fa1070467864922e2cc1ffc3"
 metafile = true
@@ -918,6 +923,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "5c4f693a0fbc744b46f76e44746baff8621ebb81937c31c777b9edcea18d8ad6"
+metafile = true
+
+[[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "7b31ce2c086570d8a58f8a1d81b273d6de14a2e39e3124216408016abc99f72a"
 metafile = true
 
 [[files]]
@@ -1811,6 +1821,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "c35fd026032c71290169c13c14db3140e1e95a8c449e3b45e71738fc586beaa2"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
+hash = "0238d3e484f1829aaabb3b2482e528e192f3124fad89d81f43d7b60406e17d71"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
+hash = "7bbc2d52041fddcb8572b50cbe39cdff6f83060da3b16eb965d882bb7ee852c3"
 metafile = true
 
 [[files]]
