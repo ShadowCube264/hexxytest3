@@ -538,10 +538,6 @@ file = "mods/AE2CCBridge-1.0.2-1.20.1-FABRIC-0.0.jar"
 hash = "25432a348cde8f5f26ce8b8b70461e7a56f00b1b0e40b79ac9a6ef4945b9ca63"
 
 [[files]]
-file = "mods/Plethora-Fabric-1.11.7-skyevg-unofficial.jar"
-hash = "a0ba090fead330b6d15cda854d29d3e4b5c19adaab1f280a9c17635657ed31cf"
-
-[[files]]
 file = "mods/ae2-emi-crafting.pw.toml"
 hash = "dbc574ca740d2a8b319c9de4376ffe21c8d02c44fa1070467864922e2cc1ffc3"
 metafile = true
@@ -1649,6 +1645,11 @@ metafile = true
 [[files]]
 file = "mods/phlexiful.pw.toml"
 hash = "c20af87edb40bd024c0529cff291ba9f90ca2b87240d3731f184322bd31922d0"
+metafile = true
+
+[[files]]
+file = "mods/plethora-peripherals.pw.toml"
+hash = "a4b1ccc33765a62276a74b4d28ec5d08fbe781d4ca30ca5b133b0143dbca7efe"
 metafile = true
 
 [[files]]
