@@ -1401,7 +1401,7 @@ metafile = true
 
 [[files]]
 file = "mods/ledger.pw.toml"
-hash = "cbfa5910fe64ad8671fa39b6f442ce4e4490806ccdad2b24ca59dd99d47c4300"
+hash = "08ed66a87310e107fed90c23f6d6eaffeb6c0b2f9496ccd8bbbdd99220473667"
 metafile = true
 
 [[files]]
