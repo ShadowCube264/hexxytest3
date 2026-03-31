@@ -1195,7 +1195,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexal-message-fix-1.0.0.jar"
-hash = "90f582d46775985186c2f3561174d4f3c338a62ad7b2b6b58c1788b417bb35ff"
+hash = "69c07c77552bd0048e3e0d25ba8415a9a336e4aa50dcb0831833ad51eb65454e"
 
 [[files]]
 file = "mods/hexal.pw.toml"
