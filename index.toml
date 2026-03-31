@@ -1194,6 +1194,10 @@ hash = "4909540724dd1ed0dc1ece335f34f09f6da522afc357dfe7ec0cc21d75d68c17"
 metafile = true
 
 [[files]]
+file = "mods/hexal-message-fix-1.0.0.jar"
+hash = "919b1d58a0262c70680a81717aff2674403d449f3de111ebe5f087056cbb0f07"
+
+[[files]]
 file = "mods/hexal.pw.toml"
 hash = "3e51d9ad93efb292181f8960816a58707ae28841c310b77c28721ac7039931d1"
 metafile = true
