@@ -1,0 +1,13 @@
+name = "HexVidia"
+filename = "hexvidia-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4YxSJI2l/versions/2JUWgKcK/hexvidia-1.0.0.jar"
+hash-format = "sha512"
+hash = "b729130549e738c391cf8620f9948dbb6be454c19992d427f0b502d3f37d8df1e247c300b15ba54534643bf4650b8613f8e37b63efc009985d96dff209e1d3fb"
+
+[update]
+[update.modrinth]
+mod-id = "4YxSJI2l"
+version = "2JUWgKcK"

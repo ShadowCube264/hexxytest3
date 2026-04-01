@@ -1274,6 +1274,11 @@ hash = "490ffac336a35b3e76238d9cc682745b629a249115aba5532836f73eba8fb929"
 metafile = true
 
 [[files]]
+file = "mods/hexvidia.pw.toml"
+hash = "6939edbc57523015437e2b40359912426f66eb2a46f6f174faa4596151776c89"
+metafile = true
+
+[[files]]
 file = "mods/hexvr.pw.toml"
 hash = "51b15ffe7e536434995a47477b354bc6f6116795f6db767cec1f9cd5fbe0c02e"
 metafile = true
