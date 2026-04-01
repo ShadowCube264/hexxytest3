@@ -62,7 +62,7 @@ hash = "2959c44525b4ef7af91a03df292728c45c7417adcd93174bc9669215654bdbc3"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "91d268f407c9fdcdd5e17950fb460a1b44912fb729062330f1afd32e20819923"
+hash = "29e5e720ba7d8fb4eabccc3e791f719d7eebd0256d8639159d3bb90a57842737"
 
 [[files]]
 file = "config/fabrication/dimensional_tools.ini"
