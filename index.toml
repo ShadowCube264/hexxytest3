@@ -42,7 +42,7 @@ hash = "86b98ef4e697b0247c7f788ea663c02030f0e3633394e9dc492e112ddf1af070"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
-hash = "466fea37964c89c3f9f7c2f7dcb49f7d38341d26b36b0f07b42f89aa1fbcc7d9"
+hash = "bc2c87392da465a96f1fced1403ccfeb1104d63eb4247e504ab0e2121f1cfc25"
 
 [[files]]
 file = "config/ding.toml"
@@ -942,7 +942,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "ff740a21fa82e029cb1d18b526a0bd2aadd296c65590191748e0f26094b99171"
+hash = "5936af167b6b4182aae53b222a11329cea91afe6e2161bcdcd9fcde29d12abae"
 metafile = true
 
 [[files]]
@@ -1212,6 +1212,11 @@ hash = "4909540724dd1ed0dc1ece335f34f09f6da522afc357dfe7ec0cc21d75d68c17"
 metafile = true
 
 [[files]]
+file = "mods/hex-spell-wheel.pw.toml"
+hash = "970dbbe3cd52afad0fce6b42198a924cd6e0533bc93914ceab55e46e7f2231a3"
+metafile = true
+
+[[files]]
 file = "mods/hexal.pw.toml"
 hash = "3e51d9ad93efb292181f8960816a58707ae28841c310b77c28721ac7039931d1"
 metafile = true
@@ -1227,7 +1232,7 @@ hash = "ee7ce93b869ccdd4637860f73c13c0fa4a22220f117cdcb4e943cfa37e119073"
 
 [[files]]
 file = "mods/hexcessible.pw.toml"
-hash = "35d3a24798f323f90e21f4094022ecbb6ee55b83c29ec2882307ea53ec7fd6f0"
+hash = "4fb67733e5166bbcbb9b4ae97f047cc8a3607fc214359ffdacae1e90fc2e1606"
 metafile = true
 
 [[files]]
@@ -1344,7 +1349,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "ebe1263174f06c0fc4f900ce932046f81b39fb4eafaf3c2ef0c123b779a1a2bd"
+hash = "b00478b24575a75675689668795d83b288e1b14340c1e637049bb8569e1c192e"
 metafile = true
 
 [[files]]
