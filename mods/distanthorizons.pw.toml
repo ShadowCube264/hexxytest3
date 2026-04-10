@@ -15,4 +15,4 @@ version = "nVT5sVYS"
 [option]
 optional = true
 default = true
-description = "stores chunks like bobby, but uses LOD to let you see much farther than normal with less lag, but the options menu is currently broken"
+description = "stores chunks like bobby, but uses LOD to let you see much farther than normal with less lag"

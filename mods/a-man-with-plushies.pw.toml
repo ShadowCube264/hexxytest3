@@ -1,0 +1,13 @@
+name = "A Man With Plushies"
+filename = "amwplushies-fabric-1.20.1-4.4.01.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EnHNgJd3/versions/5m80Sya1/amwplushies-fabric-1.20.1-4.4.01.jar"
+hash-format = "sha512"
+hash = "d40f4213af6ad9b1690920f376c8981fa77693cca78f3c2d179c8a86df91fcd6dd966d633cd6fb4a2b586fbeb18af06e68baec1a070402f7d1e0078fc197976d"
+
+[update]
+[update.modrinth]
+mod-id = "EnHNgJd3"
+version = "5m80Sya1"

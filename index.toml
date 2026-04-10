@@ -42,7 +42,7 @@ hash = "353d7b791ea6cdae273a59642fb14cdfa5fa43171487b1f4e1a91affb97c7fdc"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
-hash = "466fea37964c89c3f9f7c2f7dcb49f7d38341d26b36b0f07b42f89aa1fbcc7d9"
+hash = "bc2c87392da465a96f1fced1403ccfeb1104d63eb4247e504ab0e2121f1cfc25"
 
 [[files]]
 file = "config/ding.toml"
@@ -538,6 +538,11 @@ file = "mods/AE2CCBridge-1.0.2-1.20.1-FABRIC-0.0.jar"
 hash = "25432a348cde8f5f26ce8b8b70461e7a56f00b1b0e40b79ac9a6ef4945b9ca63"
 
 [[files]]
+file = "mods/a-man-with-plushies.pw.toml"
+hash = "f14a2cdd700781a1e9b7818c095870d2af0c70464d060638d1b25f76f46cd050"
+metafile = true
+
+[[files]]
 file = "mods/ae2-emi-crafting.pw.toml"
 hash = "dbc574ca740d2a8b319c9de4376ffe21c8d02c44fa1070467864922e2cc1ffc3"
 metafile = true
@@ -914,6 +919,11 @@ hash = "5c4f693a0fbc744b46f76e44746baff8621ebb81937c31c777b9edcea18d8ad6"
 metafile = true
 
 [[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "7b31ce2c086570d8a58f8a1d81b273d6de14a2e39e3124216408016abc99f72a"
+metafile = true
+
+[[files]]
 file = "mods/ding.pw.toml"
 hash = "32d41385c5f9c8316d29ad8c66ca4392b20cc48ab07c497bbbd78b76848b14b9"
 metafile = true
@@ -925,7 +935,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "ff740a21fa82e029cb1d18b526a0bd2aadd296c65590191748e0f26094b99171"
+hash = "5936af167b6b4182aae53b222a11329cea91afe6e2161bcdcd9fcde29d12abae"
 metafile = true
 
 [[files]]
@@ -988,6 +998,11 @@ hash = "6e025865874e85f3ac34dcf0192614bd3f7f698785ab4b7f5e09525dfa2e74bc"
 metafile = true
 
 [[files]]
+file = "mods/emi-create-schematics.pw.toml"
+hash = "cc9a58a0199de02b4fea7ccc8171ac4a1201f58bf7d327a66348d6b738e74267"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "0850cafdde70924fc9843de434675c932f8f565d1898f12cd88008eaaddf971a"
 metafile = true
@@ -1044,6 +1059,11 @@ metafile = true
 [[files]]
 file = "mods/expanded-ecosphere.pw.toml"
 hash = "58ce7f2e4562390892753e25d008cadfdc78fbbdf36af2875a3cc46a47aba0e4"
+metafile = true
+
+[[files]]
+file = "mods/extended-cogwheels.pw.toml"
+hash = "319b5ecd66c1efbd3741f649dbc71d7d2e8dcdc0ad708c3a4e3e529eccafa0f7"
 metafile = true
 
 [[files]]
@@ -1194,6 +1214,11 @@ hash = "4909540724dd1ed0dc1ece335f34f09f6da522afc357dfe7ec0cc21d75d68c17"
 metafile = true
 
 [[files]]
+file = "mods/hex-spell-wheel.pw.toml"
+hash = "970dbbe3cd52afad0fce6b42198a924cd6e0533bc93914ceab55e46e7f2231a3"
+metafile = true
+
+[[files]]
 file = "mods/hexal-message-fix-1.0.0.jar"
 hash = "69c07c77552bd0048e3e0d25ba8415a9a336e4aa50dcb0831833ad51eb65454e"
 
@@ -1213,7 +1238,7 @@ hash = "ee7ce93b869ccdd4637860f73c13c0fa4a22220f117cdcb4e943cfa37e119073"
 
 [[files]]
 file = "mods/hexcessible.pw.toml"
-hash = "35d3a24798f323f90e21f4094022ecbb6ee55b83c29ec2882307ea53ec7fd6f0"
+hash = "4fb67733e5166bbcbb9b4ae97f047cc8a3607fc214359ffdacae1e90fc2e1606"
 metafile = true
 
 [[files]]
@@ -1330,7 +1355,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "ebe1263174f06c0fc4f900ce932046f81b39fb4eafaf3c2ef0c123b779a1a2bd"
+hash = "b00478b24575a75675689668795d83b288e1b14340c1e637049bb8569e1c192e"
 metafile = true
 
 [[files]]
@@ -1811,6 +1836,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "c35fd026032c71290169c13c14db3140e1e95a8c449e3b45e71738fc586beaa2"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
+hash = "0238d3e484f1829aaabb3b2482e528e192f3124fad89d81f43d7b60406e17d71"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
+hash = "7bbc2d52041fddcb8572b50cbe39cdff6f83060da3b16eb965d882bb7ee852c3"
 metafile = true
 
 [[files]]
