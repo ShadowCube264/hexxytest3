@@ -5,11 +5,6 @@
 			"-depends": {
 				"fabric-language-kotlin": "*"
 			}
-		},
-        "hexvidia": {
-			"depends": {
-				"fabricloader": ">=0.18.4"
-			}
 		}
 	}
 }
