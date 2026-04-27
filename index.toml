@@ -2008,7 +2008,12 @@ metafile = true
 
 [[files]]
 file = "mods/vinurl.pw.toml"
-hash = "449f36e42abd88435bbb1f59444b1b60330a031e19c901fd26f5b4319555aafd"
+hash = "8712c59a8a3cff7be2067131c741f4e48d6e840653e8a6e1f38655efd39e668c"
+metafile = true
+
+[[files]]
+file = "mods/vista_tv.pw.toml"
+hash = "adc198ed35d3a7bf6a0b103c287178889a2744845074d33a391502f6d67398e0"
 metafile = true
 
 [[files]]

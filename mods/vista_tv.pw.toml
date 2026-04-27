@@ -1,0 +1,13 @@
+name = "vista"
+filename = "vista-1.20-3.1.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zuARv1N7/versions/fFmSzhfQ/vista-1.20-3.1.2-fabric.jar"
+hash-format = "sha512"
+hash = "c40a8c64d7d2d67886560c01ea263b5b80696bfab7dc8492cb5c82bb4059476136cf1bb0d698e2b617a2e0acea9818617973bb56e84820188081cc2f29b0bbd5"
+
+[update]
+[update.modrinth]
+mod-id = "zuARv1N7"
+version = "fFmSzhfQ"
