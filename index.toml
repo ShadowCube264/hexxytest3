@@ -1469,9 +1469,8 @@ hash = "c2cfcb46a6e8f84a3526745d9636728162626cff9caff64cd7464f5def3d533a"
 metafile = true
 
 [[files]]
-file = "mods/mediatransport.pw.toml"
-hash = "0f6cefb7aba95e645942fb0fce77b58a20841dd45c08bedb97ad0517ff918478"
-metafile = true
+file = "mods/mediatransport-fabric-1.1.1+1.20.1-SNAPSHOT.jar"
+hash = "c820db363b641993e7028d31add3c7570c62497f5f6295b3599de52b5fcdd0b1"
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
