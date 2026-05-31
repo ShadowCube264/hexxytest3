@@ -1,0 +1,22 @@
+{
+    "type": "origins:action_on_wake_up",
+    "entity_action": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:exhaust",
+                "amount": 300
+            },
+            {
+                "type": "origins:apply_effect",
+                "effect": {
+                    "effect": "minecraft:hunger",
+                    "duration": 2400,
+                    "amplifier": 0
+                }
+            }
+        ]    
+    },
+    "name": "ht32.power.hungry_hibernation",
+    "description": "ht32.power.hungry_hibernation.desc"
+}

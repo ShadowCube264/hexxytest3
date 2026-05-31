@@ -1,0 +1,36 @@
+{
+    "type": "origins:action_when_damage_taken",
+    "entity_action": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:explode",
+                "power": 3,
+                "destruction_type": "none",
+                "damage_self": true
+            },
+            {
+                "type": "origins:play_sound",
+                "sound": "createbigcannons:shell_explosion",
+                "volume": 2.0,
+                "pitch": 0.75
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "particle createbigcannons:flak_smoke 40 2.0 ~ ~ ~ 0 0 0 0.5 200"
+            },
+            {
+                "type": "origins:damage",
+                "amount": 9999,
+                "damage_type": "minecraft:explosion"
+            }
+        ]
+    },
+    "damage_condition": {
+        "type": "origins:in_tag",
+        "tag": "minecraft:is_drowning"
+    },
+    "cooldown": 5,
+    "name": "ht32.power.alkali_lungs",
+    "description": "ht32.power.alkali_lungs.desc"
+}

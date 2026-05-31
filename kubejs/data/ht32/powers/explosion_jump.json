@@ -1,0 +1,46 @@
+{
+    "type": "origins:active_self",
+    "cooldown": 60,
+    "entity_action": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:explode",
+                "power": 2.5,
+                "destruction_type": "none",
+                "damage_self": false,
+                "create_fire": false
+            },
+            {
+                "type": "origins:add_velocity",
+                "y": 1.0,
+                "z": 0.5,
+                "space": "local_horizontal_normalized",
+                "set": true
+            },
+            {
+                "type": "origins:play_sound",
+                "sound": "createbigcannons:shell_explosion",
+                "volume": 2.0,
+                "pitch": 2.0
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "particle createbigcannons:flak_smoke 20 1.5 ~ ~ ~ 0 0 0 0.25 100"
+            },
+            {
+                "type": "origins:area_of_effect",
+                "radius": 5.0,
+                "bientity_action": {
+                    "type": "origins:add_velocity",
+                    "z": 2
+                }
+            }
+        ]
+    },
+    "hud_render": {
+        "bar_index": 0
+    },
+    "name": "ht32.power.explosion_jump",
+    "description": "ht32.power.explosion_jump.desc"
+}
