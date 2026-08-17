@@ -1,0 +1,23 @@
+{
+    "type": "origins:modify_damage_taken",
+    "damage_condition": {
+        "type": "origins:in_tag",
+        "tag": "minecraft:is_explosion"
+    },
+    "modifiers": [
+        {
+            "operation": "add_base_early",
+            "value": -20
+        },
+        {
+            "operation": "multiply_total_multiplicative",
+            "value": -0.5
+        },
+        {
+            "operation": "min_total",
+            "value": 0
+        }
+    ],
+    "name": "ht32.power.blast_absorb",
+    "description": "ht32.power.blast_absorb.desc"
+}

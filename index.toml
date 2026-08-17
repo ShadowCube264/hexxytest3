@@ -214,7 +214,7 @@ hash = "1e4b55d0f6d331221df62b3378c0bd653a99afe39cc804c50930c3abcd1d98a8"
 
 [[files]]
 file = "kubejs/assets/ht32/lang/en_us.json"
-hash = "54f19b99abb57318468271bdc915b61701bd1ec7ae39073a5faad18b37d87edb"
+hash = "5bc7bccd8622a5711ebf4d11f24e0e412997b0e2275b7332c19aa9c9f774a594"
 
 [[files]]
 file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
@@ -301,6 +301,10 @@ file = "kubejs/data/ht32/origins/axolane.json"
 hash = "62251804df85ec32e5e80f601b69b5f42f6bcc665ea7e4b4c1fb883ea6149b50"
 
 [[files]]
+file = "kubejs/data/ht32/origins/blast_rat.json"
+hash = "3107fe8aa9990e58797b94acaf51e933275c7e383f9fd1bc1c5537fda3039b9d"
+
+[[files]]
 file = "kubejs/data/ht32/origins/bumblekin.json"
 hash = "2d7f1b8ed7fb159aaa42d3909b39a9f5c243c72f2940b98433063982ddc49920"
 
@@ -325,6 +329,10 @@ file = "kubejs/data/ht32/powers/abystomic.json"
 hash = "f9800b1ac465e6cbda203d8a5b98c727831d25a8c0b99bae510f474607e5ab27"
 
 [[files]]
+file = "kubejs/data/ht32/powers/alkali_lungs.json"
+hash = "c5a48ebfa3df0c87aea70b2b8f8c0d789bdb092ece07c0ccf364122a50eedc2c"
+
+[[files]]
 file = "kubejs/data/ht32/powers/barbed_stinger.json"
 hash = "36e54d24ee1d4453bd22ae398d019417ec6cbef5012107ad28577ff7ca93f03e"
 
@@ -335,6 +343,14 @@ hash = "15c852c4bcafdb5ec7a109e6e242fe07dbe0e13d53cee36ab7068350262c18f8"
 [[files]]
 file = "kubejs/data/ht32/powers/bionic.json"
 hash = "d544dcf91563308c06efa7bc83e1bec4c2b0d561a2214d16b4cd5e5759e04565"
+
+[[files]]
+file = "kubejs/data/ht32/powers/blast_absorb.json"
+hash = "f79e3a2505e9b1d7875c7c2b951d0a93406c99a695be36118e2b5e54801ed890"
+
+[[files]]
+file = "kubejs/data/ht32/powers/blast_proficiency.json"
+hash = "2f7f221609c93d5c3a3dc703f9ec5b43454d3c93423c50e6f7635fee52a75327"
 
 [[files]]
 file = "kubejs/data/ht32/powers/body_builder.json"
@@ -361,8 +377,12 @@ file = "kubejs/data/ht32/powers/emergency_swap.json"
 hash = "42f2af6f2475102c972757132623b68b0f946ca5cb1119a29e23a1b41e9acc1b"
 
 [[files]]
+file = "kubejs/data/ht32/powers/explosion_jump.json"
+hash = "6c567dd955a90ccae3b5f33210b1d74ce007d09ac87f7e923376be6e4a8e459f"
+
+[[files]]
 file = "kubejs/data/ht32/powers/flight.json"
-hash = "ed27ca5189debe557e9274cbec5c6a7326d856ecfe940a5cc14bf91ff83a56b8"
+hash = "69257334eb8735ae3773ae56c354a9bd3a075035eb31f941c7c69064cb8fff89"
 
 [[files]]
 file = "kubejs/data/ht32/powers/hive_protection.json"
@@ -371,6 +391,10 @@ hash = "03fa53bb31282d72d14a4a1423edf7ea3434394cb2f683a39d6c17020282586e"
 [[files]]
 file = "kubejs/data/ht32/powers/hively_home.json"
 hash = "c7af9611e5b479f1adce42ea8d7dda0bece633083c2542550e76a81fd4f78778"
+
+[[files]]
+file = "kubejs/data/ht32/powers/hungry_hibernation.json"
+hash = "7a0225d9981df03837630254a71923fb7b044500edb3783728c866fbe3a3939c"
 
 [[files]]
 file = "kubejs/data/ht32/powers/media_siphon.json"
@@ -518,7 +542,7 @@ hash = "5c6039c7e867f16994b070220c5c26afd9529fd434e7cc94442c382a3283016e"
 
 [[files]]
 file = "kubejs/data/origins/origin_layers/origin.json"
-hash = "e82c4c1f7e7f42fa39d1338f55903a4b306dd8af095dfa401af3bf5e9c550669"
+hash = "66006d2269d3c2a23e8f135e97d669b5a642bc82d4d99ea09c427cede36a406f"
 
 [[files]]
 file = "kubejs/server_scripts/factory_fix.js"
@@ -1195,6 +1219,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "2dded9237b5fbf729ca1947780e8de50bfaaad8b95371370e5263620122bad20"
+metafile = true
+
+[[files]]
+file = "mods/heartxxy.pw.toml"
+hash = "363a1ee329e3e2c3be3a1bf38e122b3132d57977b5de9b5b7b22e2390d664c1b"
 metafile = true
 
 [[files]]
@@ -2053,7 +2082,7 @@ metafile = true
 
 [[files]]
 file = "mods/yaha.pw.toml"
-hash = "126756cfb330eafa3a311f28cfbfe414870466498a305fac2a55c639909acf97"
+hash = "a32bfa78f9cd1ad337fa6782a1d00e01b442a861d111714115ae2a4b949fa4c7"
 metafile = true
 
 [[files]]
