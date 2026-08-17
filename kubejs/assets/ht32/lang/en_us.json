@@ -50,6 +50,8 @@
     "ht32.origin.reality_engine.desc": "The Reality Engine is a piece of technology that has been embedded within this being. This has caused the being to gain some minor control over the Reality Engine; with detriments to their physical body and their dimensional displacement.",
     "ht32.origin.mycelial_symbiont": "Mycelial Symbiont",
     "ht32.origin.mycelial_symbiont.desc": "A mycelium mind hosted within an organic body.",
+    "ht32.origin.blast_rat": "Blast Rat",
+    "ht32.origin.blast_rat.desc": "A little creature proficient in explosive shenanigans.",
     
     "ht32.power.ambystomic": "Ambystomic Heritage",
     "ht32.power.ambystomic.desc": "You can breath in water, and kills remove debuffs from nearby players while healing them.",
@@ -70,6 +72,8 @@
     "ht32.power.emergency_swap": "Emergency Swapping",
     "ht32.power.emergency_swap.desc": "Upon taking fatal damage you will swap to another body, and the previous will be destroyed. If there is no body to swap to, you die.",
     "ht32.power.flight": "Flight",
+    "ht32.power.flight.enable": "§aFlight Enabled",
+    "ht32.power.flight.disable": "§4Flight Disabled",
     "ht32.power.flight.desc": "You can fly!",
     "ht32.power.hively_home": "Hively Home",
     "ht32.power.hively_home.desc": "Interact with a beehive or beenest after pollinating to deposit the material and produce honey.",
@@ -110,5 +114,15 @@
     "ht32.power.spore_spreader": "Spore Spreader",
     "ht32.power.spore_spreader.desc": "You can create new mycelium by using mushrooms on paved grass. Additionally you can pick up mycelium without silktouch.",
     "ht32.power.undead": "Undead",
-    "ht32.power.undead.desc": "You are classified as an undead entity and are therefore vulnerable to the smite enchantment."
+    "ht32.power.undead.desc": "You are classified as an undead entity and are therefore vulnerable to the smite enchantment.",
+    "ht32.power.blast_absorb": "Blast Absorbing",
+    "ht32.power.blast_absorb.desc": "You do not take the first 10 hearts of an explosion's damage and any remaining damage is halved.",
+    "ht32.power.blast_proficiency": "Blast Proficiency",
+    "ht32.power.blast_proficiency.desc": "You deal an additional 50% damage with explosions caused by you.",
+    "ht32.power.explosion_jump": "Explosion Jump",
+    "ht32.power.explosion_jump.desc": "Press your primary ability key to explode and launch yourself upwards.",
+    "ht32.power.alkali_lungs": "Alkali Lungs",
+    "ht32.power.alkali_lungs.desc": "You explode upon drowning, causing damage to yourself and others.",
+    "ht32.power.hungry_hibernation": "Hungry Hibernation",
+    "ht32.power.hungry_hibernation.desc": "You become very hungry after sleeping."
 }

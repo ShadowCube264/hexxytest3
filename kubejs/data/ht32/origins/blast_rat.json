@@ -1,0 +1,16 @@
+{
+    "powers": [
+        "ht32:blast_absorb",
+        "ht32:blast_proficiency",
+        "ht32:explosion_jump",
+        "ht32:alkali_lungs",
+        "ht32:hungry_hibernation"
+    ],
+    "icon": {
+        "item": "supplementaries:bomb"
+    },
+    "order": 7,
+    "impact": 2,
+    "name": "ht32.origin.blast_rat",
+    "description": "ht32.origin.blast_rat.desc"
+}
