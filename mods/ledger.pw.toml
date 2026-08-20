@@ -3,6 +3,6 @@ filename = "Ledger-1.2.8.jar"
 side = "server"
 
 [download]
-url = "https://github.com/ShadowCube264/Ledger/releases/download/v1.2.8-new/Ledger-1.2.8.jar"
+url = "https://github.com/ShadowCube264/Ledger/releases/download/1.2.8-new-new/Ledger-1.2.8.jar"
 hash-format = "sha256"
-hash = "74f2b35f74abc88663d2eee78fc6e01b13b1cee4213d129adc6e7be1cd397703"
+hash = "31d87478e2b0dbbb06801e7fbcc1a20d1f40fcfdc6f71431483ac657df119a4a"
