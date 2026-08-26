@@ -37,12 +37,12 @@ file = "config/convenientdecor.json5"
 hash = "4bffb5e3af1d5bc26847091629df3427ec15e516030e54805168a50818744c0c"
 
 [[files]]
-file = "config/defaultoptions/options.txt"
-hash = "353d7b791ea6cdae273a59642fb14cdfa5fa43171487b1f4e1a91affb97c7fdc"
+file = "config/defaultoptions/keybindings.txt"
+hash = "e07884edec78640c0d7df5e2ef6c2bcb738a75ed2c80a15349618fd7ab16dbbe"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
-hash = "bc2c87392da465a96f1fced1403ccfeb1104d63eb4247e504ab0e2121f1cfc25"
+hash = "ae1a436dc3162fe741c077b7498b90835c5881d19a5c3c073bd22e1175366bd5"
 
 [[files]]
 file = "config/ding.toml"
