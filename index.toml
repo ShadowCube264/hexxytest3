@@ -943,11 +943,6 @@ hash = "5c4f693a0fbc744b46f76e44746baff8621ebb81937c31c777b9edcea18d8ad6"
 metafile = true
 
 [[files]]
-file = "mods/dimensionaldoors.pw.toml"
-hash = "7b31ce2c086570d8a58f8a1d81b273d6de14a2e39e3124216408016abc99f72a"
-metafile = true
-
-[[files]]
 file = "mods/ding.pw.toml"
 hash = "32d41385c5f9c8316d29ad8c66ca4392b20cc48ab07c497bbbd78b76848b14b9"
 metafile = true
