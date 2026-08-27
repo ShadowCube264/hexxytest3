@@ -37,12 +37,12 @@ file = "config/convenientdecor.json5"
 hash = "4bffb5e3af1d5bc26847091629df3427ec15e516030e54805168a50818744c0c"
 
 [[files]]
-file = "config/defaultoptions/options.txt"
-hash = "353d7b791ea6cdae273a59642fb14cdfa5fa43171487b1f4e1a91affb97c7fdc"
+file = "config/defaultoptions/keybindings.txt"
+hash = "e07884edec78640c0d7df5e2ef6c2bcb738a75ed2c80a15349618fd7ab16dbbe"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
-hash = "bc2c87392da465a96f1fced1403ccfeb1104d63eb4247e504ab0e2121f1cfc25"
+hash = "ae1a436dc3162fe741c077b7498b90835c5881d19a5c3c073bd22e1175366bd5"
 
 [[files]]
 file = "config/ding.toml"
@@ -1238,10 +1238,6 @@ hash = "970dbbe3cd52afad0fce6b42198a924cd6e0533bc93914ceab55e46e7f2231a3"
 metafile = true
 
 [[files]]
-file = "mods/hexal-message-fix-1.0.0.jar"
-hash = "69c07c77552bd0048e3e0d25ba8415a9a336e4aa50dcb0831833ad51eb65454e"
-
-[[files]]
 file = "mods/hexal.pw.toml"
 hash = "3e51d9ad93efb292181f8960816a58707ae28841c310b77c28721ac7039931d1"
 metafile = true
@@ -1321,6 +1317,10 @@ metafile = true
 file = "mods/hexvr.pw.toml"
 hash = "51b15ffe7e536434995a47477b354bc6f6116795f6db767cec1f9cd5fbe0c02e"
 metafile = true
+
+[[files]]
+file = "mods/hexxy-fix-1.0.1.jar"
+hash = "1e206ae69fc9a11f994b188e299bcc95f4089279bc48e9f47ce3ed48ce6b5128"
 
 [[files]]
 file = "mods/hierophantics.pw.toml"
