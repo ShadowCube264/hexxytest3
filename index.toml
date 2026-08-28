@@ -2050,6 +2050,11 @@ hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
 metafile = true
 
 [[files]]
+file = "mods/wheelchairs.pw.toml"
+hash = "f5ffec79996a4cd69dedf2c2af6ec018faab42adfae295db126b8b7a73b13f08"
+metafile = true
+
+[[files]]
 file = "mods/where-is-it.pw.toml"
 hash = "f548bae64f75608a6baa1ff146b18bb8a37daedef38b9bdb79a65d30c6f2ffbc"
 metafile = true
