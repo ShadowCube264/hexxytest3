@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/NdeIBctc/versions/Q0IBH3hq/quickstack-1.0.2
 hash-format = "sha1"
 hash = "a54502ba6c7ff886a83c0e70c4f120be260b1c2b"
 
+[option]
+optional=true
+default=true
+
 [update]
 [update.modrinth]
 mod-id = "NdeIBctc"
