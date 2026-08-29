@@ -233,6 +233,10 @@ file = "kubejs/data/c/tags/items/mushrooms.json"
 hash = "b609618ef00f8a930b21665c2706b057c06fdc169806da19ad551b640dd2bdf3"
 
 [[files]]
+file = "kubejs/data/ht32/damage_type/microwaved_rat.json"
+hash = "456da57823835881fd32039633ef3c369298965c673666225a9a0041499f262e"
+
+[[files]]
 file = "kubejs/data/ht32/functions/check_entity.mcfunction"
 hash = "2e17dfc1c9e2aae704ffe1e597c40c5a5beef5eb5572b8b5b0aeff059d097fdd"
 
@@ -298,7 +302,7 @@ hash = "7b424bfaebd4fb3721d9a1216def56b6b831a7f176b4f2e9d116424edee809c4"
 
 [[files]]
 file = "kubejs/data/ht32/origins/axolane.json"
-hash = "62251804df85ec32e5e80f601b69b5f42f6bcc665ea7e4b4c1fb883ea6149b50"
+hash = "a85de844e6d2e8b4e7bf891411d667ed29ee00d4639ec8ce52efdc1f98c1fc83"
 
 [[files]]
 file = "kubejs/data/ht32/origins/blast_rat.json"
@@ -330,7 +334,7 @@ hash = "f9800b1ac465e6cbda203d8a5b98c727831d25a8c0b99bae510f474607e5ab27"
 
 [[files]]
 file = "kubejs/data/ht32/powers/alkali_lungs.json"
-hash = "c5a48ebfa3df0c87aea70b2b8f8c0d789bdb092ece07c0ccf364122a50eedc2c"
+hash = "b6d701c27c6a58f80c3558f812abc6396e2dbd2ff21fa762fe4b27bbc5d9006f"
 
 [[files]]
 file = "kubejs/data/ht32/powers/barbed_stinger.json"
@@ -525,6 +529,18 @@ file = "kubejs/data/ht32/worldgen/template_pool/vault_start_gen.json"
 hash = "3a30667fd21ef0aeb57878ce30bd6de9431d1c50df2afa60a1a7cae8a9013eee"
 
 [[files]]
+file = "kubejs/data/minecraft/tags/damage_type/bypasses_armor.json"
+hash = "54ff73e10b2574fd98caa93556b9b46dba8a22514b9577c994f6b0fe2a302b3e"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/damage_type/bypasses_invulnerability.json"
+hash = "54ff73e10b2574fd98caa93556b9b46dba8a22514b9577c994f6b0fe2a302b3e"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/damage_type/bypasses_resistance.json"
+hash = "54ff73e10b2574fd98caa93556b9b46dba8a22514b9577c994f6b0fe2a302b3e"
+
+[[files]]
 file = "kubejs/data/minecraft/tags/functions/load.json"
 hash = "716a9901b0fc0966e84975ca48508656bdf6b51d14f677c37b4d9b555ca0449b"
 
@@ -546,7 +562,7 @@ hash = "66006d2269d3c2a23e8f135e97d669b5a642bc82d4d99ea09c427cede36a406f"
 
 [[files]]
 file = "kubejs/server_scripts/factory_fix.js"
-hash = "1d09efd8afec67e4aa07ebf49e3e952fc3913ff2ea537c637d0e3334d7e6ef81"
+hash = "fad4fde1f9f1fc7e7b56e90a0223487ac8e5bc378a3696541a03e269bb187d89"
 
 [[files]]
 file = "local/ftbchunks/client-config.snbt"
@@ -1715,7 +1731,7 @@ metafile = true
 
 [[files]]
 file = "mods/quickstack.pw.toml"
-hash = "c6423eeef60aacad291b03c9b348e10e9243ffa317ccc0feeeadc08cb08316c5"
+hash = "fd22e4a70bf8db479b6de476079a00136c8026b3f085ad5c17b200dfc4f47165"
 metafile = true
 
 [[files]]
