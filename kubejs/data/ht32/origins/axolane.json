@@ -4,7 +4,8 @@
         "ht32:abystomic",
         "ht32:breathless_glide",
         "ht32:shock_absorb",
-        "ht32:vestigial"
+        "ht32:vestigial",
+        "origins:aqua_affinity"
     ],
     "icon": {
         "item": "minecraft:axolotl_bucket"
