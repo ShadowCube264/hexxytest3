@@ -22,7 +22,7 @@
             {
                 "type": "origins:damage",
                 "amount": 9999,
-                "damage_type": "minecraft:explosion"
+                "damage_type": "ht32:microwaved_rat"
             }
         ]
     },
