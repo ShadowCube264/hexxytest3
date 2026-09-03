@@ -546,7 +546,7 @@ hash = "66006d2269d3c2a23e8f135e97d669b5a642bc82d4d99ea09c427cede36a406f"
 
 [[files]]
 file = "kubejs/server_scripts/factory_fix.js"
-hash = "1d09efd8afec67e4aa07ebf49e3e952fc3913ff2ea537c637d0e3334d7e6ef81"
+hash = "fad4fde1f9f1fc7e7b56e90a0223487ac8e5bc378a3696541a03e269bb187d89"
 
 [[files]]
 file = "local/ftbchunks/client-config.snbt"
@@ -800,6 +800,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b2d6595b73bd66167a4d7ace472c54c0eab45f55e1769f4ff7da72ce8b58872a"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "15385164e2cd07cce7493a10d6d87df5c7bce587a866613126be3b54b6b28fc7"
 metafile = true
 
 [[files]]
@@ -1715,7 +1720,7 @@ metafile = true
 
 [[files]]
 file = "mods/quickstack.pw.toml"
-hash = "c6423eeef60aacad291b03c9b348e10e9243ffa317ccc0feeeadc08cb08316c5"
+hash = "fd22e4a70bf8db479b6de476079a00136c8026b3f085ad5c17b200dfc4f47165"
 metafile = true
 
 [[files]]
