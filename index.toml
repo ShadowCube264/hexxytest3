@@ -1350,8 +1350,8 @@ hash = "51b15ffe7e536434995a47477b354bc6f6116795f6db767cec1f9cd5fbe0c02e"
 metafile = true
 
 [[files]]
-file = "mods/hexxy-fix-1.0.1.jar"
-hash = "1e206ae69fc9a11f994b188e299bcc95f4089279bc48e9f47ce3ed48ce6b5128"
+file = "mods/hexxy-fix-1.0.2.jar"
+hash = "bf84b92c21031a4b8f4439be8129b67da8348eb05c3c78714593ca411b4b25db"
 
 [[files]]
 file = "mods/hierophantics.pw.toml"
