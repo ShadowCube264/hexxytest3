@@ -65,6 +65,7 @@
       "hover": true,
       "lang": true,
       "gradient": true,
+      "hard_gradient": true,
       "rainbow": true,
       "reset": true,
       "r": true,
